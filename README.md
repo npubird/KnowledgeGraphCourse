@@ -42,12 +42,12 @@
 # 经典文献
 
 ## 知识图谱构建
-1.Dong X, Gabrilovich E, Heitz G, et al. [Knowledge vault: A web-scale approach to probabilistic knowledge fusion](https://ai.google/research/pubs/pub45634.pdf). KDD2014: 601-610.  
-1.Suchanek F M, Kasneci G, Weikum G. [Yago: a core of semantic knowledge](http://www2007.wwwconference.org/papers/paper391.pdf). WWW2007: 697-706.  
-1.Hoffart J, Suchanek F M, Berberich K, et al. [YAGO2: A spatially and temporally enhanced knowledge base from Wikipedia](https://people.mpi-inf.mpg.de/~kberberi/publications/2013-ai.pdf). Artificial Intelligence, 2013, 194: 28-61.  
-1.Navigli R, Ponzetto S P. [BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network](http://web.informatik.uni-mannheim.de/ponzetto/pubs/navigli12b.pdf). Artificial Intelligence, 2012, 193: 217-250.  
-1.Auer S, Bizer C, Kobilarov G, et al. [Dbpedia: A nucleus for a web of open data](http://editthis.info/images/swim/d/d8/Dbpedia_-_open_data.pdf). ISWC2007: 722-735.  
-1.Mitchell T, Cohen W, Hruschka E, et al. Never-ending learning(https://dl.acm.org/ft_gateway.cfm?id=3191513&type=pdf). Communications of the ACM, 2018, 61(5): 103-115. [earlier work](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1879/2201) 
+1. Dong X, Gabrilovich E, Heitz G, et al. [Knowledge vault: A web-scale approach to probabilistic knowledge fusion](https://ai.google/research/pubs/pub45634.pdf). KDD2014: 601-610.  
+1. Suchanek F M, Kasneci G, Weikum G. [Yago: a core of semantic knowledge](http://www2007.wwwconference.org/papers/paper391.pdf). WWW2007: 697-706.  
+1. Hoffart J, Suchanek F M, Berberich K, et al. [YAGO2: A spatially and temporally enhanced knowledge base from Wikipedia](https://people.mpi-inf.mpg.de/~kberberi/publications/2013-ai.pdf). Artificial Intelligence, 2013, 194: 28-61.  
+1. Navigli R, Ponzetto S P. [BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network](http://web.informatik.uni-mannheim.de/ponzetto/pubs/navigli12b.pdf). Artificial Intelligence, 2012, 193: 217-250.  
+1. Auer S, Bizer C, Kobilarov G, et al. [Dbpedia: A nucleus for a web of open data](http://editthis.info/images/swim/d/d8/Dbpedia_-_open_data.pdf). ISWC2007: 722-735.  
+1. Mitchell T, Cohen W, Hruschka E, et al. Never-ending learning(https://dl.acm.org/ft_gateway.cfm?id=3191513&type=pdf). Communications of the ACM, 2018, 61(5): 103-115. [earlier work](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1879/2201) 
 
 
 
