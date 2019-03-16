@@ -26,7 +26,7 @@
 + 描述逻辑  
 + 本体  
 + 本体语言  
-+ 统计表示学习   
++ 统计表示学习    
 课件下载:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-2知识表示.pdf)
 
 ## 第3讲 知识建模 （2019-3-15，2019-3-22
@@ -36,7 +36,6 @@
 + 本体学习  
 + 知识建模工具  
 + 知识建模实践  
-课件下载:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-3知识建模.pdf)
 
 
 
@@ -50,17 +49,67 @@
 1. Auer S, Bizer C, Kobilarov G, et al. [Dbpedia: A nucleus for a web of open data](http://editthis.info/images/swim/d/d8/Dbpedia_-_open_data.pdf). ISWC2007: 722-735.  
 1. Mitchell T, Cohen W, Hruschka E, et al. [Never-ending learning](https://dl.acm.org/ft_gateway.cfm?id=3191513&type=pdf). Communications of the ACM, 2018, 61(5): 103-115. [earlier work](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1879/2201) 
 
+## 知识表示和建模
+
+1. Sowa J F. Knowledge representation: logical, philosophical, and computational foundations. 1999.  
+2. Noy N F, McGuinness D L. [Ontology Development 101: A Guide to Creating Your First Ontology](http://ftp.ksl.stanford.edu/people/dlm/papers/ontology-tutorial-noy-mcguinness.pdf).  
+3. 
+
 ## 知识抽取
+1. Etzioni O, Cafarella M, Downey D, et al. [Web-scale information extraction in knowitall:(preliminary results)](http://www2004.org/proceedings/docs/1p100.pdf).WWW2004: 100-110.  
+2. Banko M, Cafarella M J, Soderland S, et al. [Open information extraction from the web](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-429.pdf). IJCAI2007, 7: 2670-2676.  
+3. Fader A, Soderland S, Etzioni O. [Identifying relations for open information extraction](https://aclanthology.info/pdf/D/D11/D11-1142.pdf). EMNLP2011: 1535-1545.  
+4. 
+## 知识融合  
+1. Shvaiko P, Euzenat J. [Ontology matching: state of the art and future challenges](https://hal.inria.fr/hal-00917910/document). IEEE Transactions on knowledge and data engineering, 2013, 25(1): 158-176.  
+2. Noy N F, Musen M A. [Algorithm and tool for automated ontology merging and alignment](https://www.aaai.org/Papers/AAAI/2000/AAAI00-069.pdf). AAAI2000.  
+3. Do H H, Rahm E. [COMA: a system for flexible combination of schema matching approaches](http://www.vldb.org/conf/2002/S17P03.pdf).VLDB2002: 610-621.  
+4. Doan A H, Madhavan J, Domingos P, et al. [Learning to map between ontologies on the semantic web](http://secs.ceas.uc.edu/~mazlack/CS716.f2006/Semantic.Web.Ontology.Papers/Doan.02.pdf). WWW2002: 662-673.  
+5. Ehrig M, Staab S. [QOM–quick ontology mapping](http://www.scs.carleton.ca/~armyunis/knowledge-managment/papers/QOM-Quick%20Ontology%20Mapping.pdf). ISWC2004: 683-697.  
+6. Qu Y, Hu W, Cheng G. [Constructing virtual documents for ontology matching](https://www.researchgate.net/profile/Yuzhong_Qu/publication/221022499_Lecture_Notes_in_Computer_Science/links/5483bb9f0cf25dbd59eb0ff0/Lecture-Notes-in-Computer-Science.pdf). WWW2006: 23-31.  
+7. Li J, Tang J, Li Y, et al. [RiMOM: A dynamic multistrategy ontology alignment framework](https://ieeexplore.ieee.org/abstract/document/4633358/). IEEE Transactions on Knowledge and data Engineering, 2009, 21(8): 1218-1232.  
+8. Mao M, Peng Y, Spring M. [An adaptive ontology mapping approach with neural network based constraint satisfaction](http://gesispanel.gesis.org/preprints/index.php/ps/article/download/209/368). Journal of Web Semantics, 2010, 8(1): 14-25.  
+9. Hu W, Qu Y, Cheng G. [Matching large ontologies: A divide-and-conquer approach](http://dit.unitn.it/~p2p/RelatedWork/Matching/MatchingLargeOntologies.pdf). Data & Knowledge Engineering, 2008, 67(1): 140-160.  
+10. Papadakis G, Ioannou E, Palpanas T, et al. [A blocking framework for entity resolution in highly heterogeneous information spaces](http://disi.unitn.it/~themis/publications/erframework-tr12.pdf). IEEE Transactions on Knowledge and Data Engineering, 2013, 25(12): 2665-2682.  
+11. Wang P, Zhou Y, Xu B. [Matching large ontologies based on reduction anchors](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI11/paper/download/3145/3697). Twenty-Second International Joint Conference on Artificial Intelligence. 2011.  
+12. Niu X, Rong S, Wang H, et al. [An effective rule miner for instance matching in a web of data](http://xingniu.org/pub/ruleminer_cikm12.pdf). CIKM2012: 1085-1094.  
+13. Papadakis G, Ioannou E, Palpanas T, et al. [A blocking framework for entity resolution in highly heterogeneous information spaces](http://disi.unitn.it/~themis/publications/erframework-tr12.pdf). IEEE Transactions on Knowledge and Data Engineering, 2013, 25(12): 2665-2682.  
+14. Li J, Wang Z, Zhang X, et al. [Large scale instance matching via multiple indexes and candidate selection](http://disi.unitn.it/~p2p/RelatedWork/Matching/KBS13-Li-et-al-large-instance.pdf). Knowledge-Based Systems, 2013, 50: 112-120.  
+15. Hu W, Chen J, Qu Y. [A self-training approach for resolving object coreference on the semantic web](http://dit.unitn.it/~p2p/RelatedWork/Matching/A%20self-training%20approach_Hu_www11.pdf). WWW2011: 87-96.  
+16. Tang J, Fong A C M, Wang B, et al. [A unified probabilistic framework for name disambiguation in digital library](http://keg.cs.tsinghua.edu.cn/jietang/publications/TKDE12-Tang-Name-Disambiguation.pdf). IEEE Transactions on Knowledge and Data Engineering, 2012, 24(6): 975-987.  
+17. Zhang Y, Zhang F, Yao P, et al. [Name Disambiguation in AMiner: Clustering, Maintenance, and Human in the Loop](http://keg.cs.tsinghua.edu.cn/jietang/publications/kdd18_yutao-AMiner-Name-Disambiguation.pdf). KDD2018: 1002-1011.  
+18. Ngomo A C N, Auer S. [LIMES—a time-efficient approach for large-scale link discovery on the web of data](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI11/paper/viewFile/3125/3692). IJCAI2011.  
+
+ 
 
 
-## 知识融合
+## 知识图谱嵌入  
+1. Wang Q, Mao Z, Wang B, et al. [Knowledge graph embedding: A survey of approaches and applications](http://download.xuebalib.com/3at6CEQL3eBi.pdf). IEEE Transactions on Knowledge and Data Engineering, 2017, 29(12): 2724-2743.  
+2. Bordes A, Usunier N, Garcia-Duran A, et al. [Translating embeddings for modeling multi-relational data](http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf). NIPS2013: 2787-2795.  
+3. Lin Y, Liu Z, Sun M, et al. [Learning entity and relation embeddings for knowledge graph completion](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9571/9523). AAAI2015.  
+4. Wang Z, Zhang J, Feng J, et al. [Knowledge graph embedding by translating on hyperplanes](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8531/8546). AAAI2014.  
+5. Wang Z, Zhang J, Feng J, et al. [Knowledge graph and text jointly embedding](http://www.aclweb.org/anthology/D14-1167). EMNLP2014: 1591-1601.  
+6. Ji G, He S, Xu L, et al. [Knowledge graph embedding via dynamic mapping matrix](http://www.aclweb.org/anthology/P15-1067). ACL2015: 687-696.  
+7. 
+  
 
-## 知识图谱嵌入
 
-## 知识推理
+## 知识推理  
+1. Nickel M, Tresp V, Kriegel H P. [A Three-Way Model for Collective Learning on Multi-Relational Data](http://www.cip.ifi.lmu.de/~nickel/data/slides-icml2011.pdf). ICML2011: 809-816.  
+2. Socher R, Chen D, Manning C D, et al. [Reasoning with neural tensor networks for knowledge base completion](https://papers.nips.cc/paper/5028-reasoning-with-neural-tensor-networks-for-knowledge-base-completion.pdf). NIPS2013: 926-934.  
+3. Lao N, Cohen W W. [Relational retrieval using a combination of path-constrained random walks](https://link.springer.com/content/pdf/10.1007/s10994-010-5205-8.pdf). Machine learning, 2010, 81(1): 53-67.  
+4. Lin Y, Liu Z, Luan H, et al. [Modeling relation paths for representation learning of knowledge bases](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP082.pdf). EMNLP2015.  
+5. Gardner M, Talukdar P, Krishnamurthy J, et al. [Incorporating vector space similarity in random walk inference over knowledge bases](http://www.aclweb.org/anthology/D14-1044). EMNLP2014: 397-406.  
+6. Xiong W, Hoang T, Wang W Y. [DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning](http://www.aclweb.org/anthology/D17-1060). EMNLP2017:564-573.  
 
 ## 知识存储
-
+1. Bornea M A, Dolby J, Kementsietsidis A, et al. [Building an efficient RDF store over a relational database](https://www.researchgate.net/profile/Patrick_Dantressangle/publication/262162010_Building_an_efficient_RDF_store_over_a_relational_database/links/54f718680cf210398e9184bc/Building-an-efficient-RDF-store-over-a-relational-database.pdf). SIGMOD2013: 121-132.  
+2. Huang J, Abadi D J, Ren K. [Scalable SPARQL querying of large RDF graphs](http://www.cs.umd.edu/~abadi/papers/sw-graph-scale.pdf). Proceedings of the VLDB Endowment, 2011, 4(11): 1123-1134.  
+3. Zou L, Özsu M T, Chen L, et al. [gStore: a graph-based SPARQL query engine](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.386.7427&rep=rep1&type=pdf). The VLDB Journal—The International Journal on Very Large Data Bases, 2014, 23(4): 565-590.  
+4. 
+  
+## 人机交互  
+1. Zhou H, Young T, Huang M, et al. [Commonsense Knowledge Aware Conversation Generation with Graph Attention](https://www.ijcai.org/proceedings/2018/0643.pdf). IJCAI. 2018: 4623-4629.  
 
 
 
