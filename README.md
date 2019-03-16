@@ -39,7 +39,7 @@
 
 
 
-# 附录：经典文献选读
+# 附录A：经典文献选读
 
 ## 知识图谱构建
 1. Dong X, Gabrilovich E, Heitz G, et al. [Knowledge vault: A web-scale approach to probabilistic knowledge fusion](https://ai.google/research/pubs/pub45634.pdf). KDD2014: 601-610.  
@@ -53,7 +53,6 @@
 
 1. Sowa J F. Knowledge representation: logical, philosophical, and computational foundations. 1999.  
 2. Noy N F, McGuinness D L. [Ontology Development 101: A Guide to Creating Your First Ontology](http://ftp.ksl.stanford.edu/people/dlm/papers/ontology-tutorial-noy-mcguinness.pdf).  
-3. 
 
 ## 知识抽取
 1. Etzioni O, Cafarella M, Downey D, et al. [Web-scale information extraction in knowitall:(preliminary results)](http://www2004.org/proceedings/docs/1p100.pdf).WWW2004: 100-110.  
@@ -90,7 +89,6 @@
 4. Wang Z, Zhang J, Feng J, et al. [Knowledge graph embedding by translating on hyperplanes](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8531/8546). AAAI2014.  
 5. Wang Z, Zhang J, Feng J, et al. [Knowledge graph and text jointly embedding](http://www.aclweb.org/anthology/D14-1167). EMNLP2014: 1591-1601.  
 6. Ji G, He S, Xu L, et al. [Knowledge graph embedding via dynamic mapping matrix](http://www.aclweb.org/anthology/P15-1067). ACL2015: 687-696.  
-7. 
   
 
 
@@ -106,11 +104,18 @@
 1. Bornea M A, Dolby J, Kementsietsidis A, et al. [Building an efficient RDF store over a relational database](https://www.researchgate.net/profile/Patrick_Dantressangle/publication/262162010_Building_an_efficient_RDF_store_over_a_relational_database/links/54f718680cf210398e9184bc/Building-an-efficient-RDF-store-over-a-relational-database.pdf). SIGMOD2013: 121-132.  
 2. Huang J, Abadi D J, Ren K. [Scalable SPARQL querying of large RDF graphs](http://www.cs.umd.edu/~abadi/papers/sw-graph-scale.pdf). Proceedings of the VLDB Endowment, 2011, 4(11): 1123-1134.  
 3. Zou L, Özsu M T, Chen L, et al. [gStore: a graph-based SPARQL query engine](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.386.7427&rep=rep1&type=pdf). The VLDB Journal—The International Journal on Very Large Data Bases, 2014, 23(4): 565-590.  
-4. 
   
 ## 人机交互  
 1. Zhou H, Young T, Huang M, et al. [Commonsense Knowledge Aware Conversation Generation with Graph Attention](https://www.ijcai.org/proceedings/2018/0643.pdf). IJCAI. 2018: 4623-4629.  
 
+# 附录B：研究进展论文选读(近1年内)
+1. Bhatia S, Dwivedi P, Kaur A. That’s Interesting, Tell Me More! [Finding Descriptive Support Passages for Knowledge Graph Relationships](http://sumitbhatia.net/papers/iswc18.pdf). ISWC2018: 250-267. (Best Paper)  
+2. Soulet A, Giacometti A, Markhoff B, et al. [Representativeness of Knowledge Bases with the Generalized Benford’s Law](https://a3nm.net/work/seminar/slides/20181115-soulet.pdf). ISWC2018: 374-390.  
+3. Wang M, Wang R, Liu J, et al. [Towards Empty Answers in SPARQL: Approximating Querying with RDF Embedding](https://link.springer.com/chapter/10.1007/978-3-030-00671-6_30). ISWC2018: 513-529.  
+4. Salas J, Hogan A. [Canonicalisation of monotone SPARQL queries](https://link.springer.com/chapter/10.1007/978-3-030-00671-6_35). ISWC2018: 600-616. (Best Student Paper)  
+5. Pertsas V, Constantopoulos P, Androutsopoulos I. [Ontology Driven Extraction of Research Processes](https://pages.cs.aueb.gr/ipl/nlp/pubs/iswc2018.pdf). ISWC2018:162-178.  
+6. Saeedi A, Peukert E, Rahm E. [Using link features for entity clustering in knowledge graphs](https://dbs.uni-leipzig.de/file/eswc_0.pdf). ESWC2018: 576-592. (Best Paper)  
+7. Schlichtkrull M, Kipf T N, Bloem P, et al. [Modeling relational data with graph convolutional networks](https://arxiv.org/pdf/1703.06103). ESWC2018: 593-607. (Best Student Paper)   
 
 
 
