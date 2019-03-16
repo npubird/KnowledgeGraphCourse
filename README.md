@@ -26,7 +26,7 @@
 + 描述逻辑  
 + 本体  
 + 本体语言  
-+ 统计表示学习    
++ 统计表示学习   
 课件下载:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-2知识表示.pdf)
 
 ## 第3讲 知识建模 （2019-3-15，2019-3-22
@@ -36,6 +36,7 @@
 + 本体学习  
 + 知识建模工具  
 + 知识建模实践  
+课件下载:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-3知识建模.pdf)
 
 
 
