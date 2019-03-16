@@ -15,7 +15,7 @@
 1.6 典型知识图谱  
 1.7 知识图谱应用场景  
 课件下载:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱概论A.pdf)   [partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱概论B.pdf)   [partC](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱概论C.pdf)
-## 第2讲 知识表示 （2019-3-15)
+## 第2讲 知识表示 （2019-3-15)  
 2.1 知识表示概念  
 2.2 知识表示方法  
 + 语义网络  
@@ -58,7 +58,7 @@
 1. Etzioni O, Cafarella M, Downey D, et al. [Web-scale information extraction in knowitall:(preliminary results)](http://www2004.org/proceedings/docs/1p100.pdf).WWW2004: 100-110.  
 2. Banko M, Cafarella M J, Soderland S, et al. [Open information extraction from the web](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-429.pdf). IJCAI2007, 7: 2670-2676.  
 3. Fader A, Soderland S, Etzioni O. [Identifying relations for open information extraction](https://aclanthology.info/pdf/D/D11/D11-1142.pdf). EMNLP2011: 1535-1545.  
-4. 
+
 ## 知识融合  
 1. Shvaiko P, Euzenat J. [Ontology matching: state of the art and future challenges](https://hal.inria.fr/hal-00917910/document). IEEE Transactions on knowledge and data engineering, 2013, 25(1): 158-176.  
 2. Noy N F, Musen M A. [Algorithm and tool for automated ontology merging and alignment](https://www.aaai.org/Papers/AAAI/2000/AAAI00-069.pdf). AAAI2000.  
@@ -108,7 +108,7 @@
 ## 人机交互  
 1. Zhou H, Young T, Huang M, et al. [Commonsense Knowledge Aware Conversation Generation with Graph Attention](https://www.ijcai.org/proceedings/2018/0643.pdf). IJCAI. 2018: 4623-4629.  
 
-# 附录B：研究进展论文选读(近1年内)
+# 附录B：最新进展论文选读(近1年内)
 1. Bhatia S, Dwivedi P, Kaur A. That’s Interesting, Tell Me More! [Finding Descriptive Support Passages for Knowledge Graph Relationships](http://sumitbhatia.net/papers/iswc18.pdf). ISWC2018: 250-267. (Best Paper)  
 2. Soulet A, Giacometti A, Markhoff B, et al. [Representativeness of Knowledge Bases with the Generalized Benford’s Law](https://a3nm.net/work/seminar/slides/20181115-soulet.pdf). ISWC2018: 374-390.  
 3. Wang M, Wang R, Liu J, et al. [Towards Empty Answers in SPARQL: Approximating Querying with RDF Embedding](https://link.springer.com/chapter/10.1007/978-3-030-00671-6_30). ISWC2018: 513-529.  
