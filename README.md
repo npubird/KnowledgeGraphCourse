@@ -55,9 +55,17 @@
 2. Noy N F, McGuinness D L. [Ontology Development 101: A Guide to Creating Your First Ontology](http://ftp.ksl.stanford.edu/people/dlm/papers/ontology-tutorial-noy-mcguinness.pdf).  
 
 ## 知识抽取
+* **信息抽取**  
 1. Etzioni O, Cafarella M, Downey D, et al. [Web-scale information extraction in knowitall:(preliminary results)](http://www2004.org/proceedings/docs/1p100.pdf).WWW2004: 100-110.  
 2. Banko M, Cafarella M J, Soderland S, et al. [Open information extraction from the web](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-429.pdf). IJCAI2007, 7: 2670-2676.  
 3. Fader A, Soderland S, Etzioni O. [Identifying relations for open information extraction](https://aclanthology.info/pdf/D/D11/D11-1142.pdf). EMNLP2011: 1535-1545.  
+
+* **实体识别** 
+
+* **关系抽取**  
+
+* **事件抽取**  
+
 
 ## 知识融合  
 1. Shvaiko P, Euzenat J. [Ontology matching: state of the art and future challenges](https://hal.inria.fr/hal-00917910/document). IEEE Transactions on knowledge and data engineering, 2013, 25(1): 158-176.  
@@ -92,7 +100,7 @@
   
 
 
-## 知识推理  
+## 知识推理/知识挖掘  
 1. Nickel M, Tresp V, Kriegel H P. [A Three-Way Model for Collective Learning on Multi-Relational Data](http://www.cip.ifi.lmu.de/~nickel/data/slides-icml2011.pdf). ICML2011: 809-816.  
 2. Socher R, Chen D, Manning C D, et al. [Reasoning with neural tensor networks for knowledge base completion](https://papers.nips.cc/paper/5028-reasoning-with-neural-tensor-networks-for-knowledge-base-completion.pdf). NIPS2013: 926-934.  
 3. Lao N, Cohen W W. [Relational retrieval using a combination of path-constrained random walks](https://link.springer.com/content/pdf/10.1007/s10994-010-5205-8.pdf). Machine learning, 2010, 81(1): 53-67.  
@@ -100,7 +108,7 @@
 5. Gardner M, Talukdar P, Krishnamurthy J, et al. [Incorporating vector space similarity in random walk inference over knowledge bases](http://www.aclweb.org/anthology/D14-1044). EMNLP2014: 397-406.  
 6. Xiong W, Hoang T, Wang W Y. [DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning](http://www.aclweb.org/anthology/D17-1060). EMNLP2017:564-573.  
 
-## 知识存储
+## 知识存储/知识查询
 1. Bornea M A, Dolby J, Kementsietsidis A, et al. [Building an efficient RDF store over a relational database](https://www.researchgate.net/profile/Patrick_Dantressangle/publication/262162010_Building_an_efficient_RDF_store_over_a_relational_database/links/54f718680cf210398e9184bc/Building-an-efficient-RDF-store-over-a-relational-database.pdf). SIGMOD2013: 121-132.  
 2. Huang J, Abadi D J, Ren K. [Scalable SPARQL querying of large RDF graphs](http://www.cs.umd.edu/~abadi/papers/sw-graph-scale.pdf). Proceedings of the VLDB Endowment, 2011, 4(11): 1123-1134.  
 3. Zou L, Özsu M T, Chen L, et al. [gStore: a graph-based SPARQL query engine](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.386.7427&rep=rep1&type=pdf). The VLDB Journal—The International Journal on Very Large Data Bases, 2014, 23(4): 565-590.  
