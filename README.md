@@ -29,7 +29,7 @@
 + 统计表示学习   
 **课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-2知识表示.pdf)
 
-## 第3讲 知识建模 （2019-3-15，2019-3-22
+## 第3讲 知识建模 （2019-3-15，2019-3-22）
 3.1 本体  
 3.2 知识建模方法学 
 + 本体工程   
@@ -123,7 +123,9 @@
 4. Salas J, Hogan A. [Canonicalisation of monotone SPARQL queries](https://link.springer.com/chapter/10.1007/978-3-030-00671-6_35). ISWC2018: 600-616. (Best Student Paper)  
 5. Pertsas V, Constantopoulos P, Androutsopoulos I. [Ontology Driven Extraction of Research Processes](https://pages.cs.aueb.gr/ipl/nlp/pubs/iswc2018.pdf). ISWC2018:162-178.  
 6. Saeedi A, Peukert E, Rahm E. [Using link features for entity clustering in knowledge graphs](https://dbs.uni-leipzig.de/file/eswc_0.pdf). ESWC2018: 576-592. (Best Paper)  
-7. Schlichtkrull M, Kipf T N, Bloem P, et al. [Modeling relational data with graph convolutional networks](https://arxiv.org/pdf/1703.06103). ESWC2018: 593-607. (Best Student Paper)   
+7. Schlichtkrull M, Kipf T N, Bloem P, et al. [Modeling relational data with graph convolutional networks](https://arxiv.org/pdf/1703.06103). ESWC2018: 593-607. (Best Student Paper)  
+8. Hamid Z, Giulio N, Jens L. Formal Query Generation for Question Answering over Knowledge Bases. ESWC2018:714-728.  
+9. Zhou L, Gao J, Li D, et al. [The Design and Implementation of XiaoIce, an Empathetic Social Chatbot](https://arxiv.org/pdf/1812.08989). arXiv preprint arXiv:1812.08989, 2018.  
 
 
 
