@@ -15,7 +15,7 @@
 1.6 典型知识图谱  
 1.7 知识图谱应用场景  
 **课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱概论A.pdf)   [partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱概论B.pdf)   [partC](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱概论C.pdf)
-## 第2讲 知识表示 （2019-3-15)  
+## 第2讲 知识表示 (2019-3-15)  
 2.1 知识表示概念  
 2.2 知识表示方法  
 + 语义网络  
@@ -59,10 +59,12 @@
 1. Etzioni O, Cafarella M, Downey D, et al. [Web-scale information extraction in knowitall:(preliminary results)](http://www2004.org/proceedings/docs/1p100.pdf).WWW2004: 100-110.  
 2. Banko M, Cafarella M J, Soderland S, et al. [Open information extraction from the web](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-429.pdf). IJCAI2007, 7: 2670-2676.  
 3. Fader A, Soderland S, Etzioni O. [Identifying relations for open information extraction](https://aclanthology.info/pdf/D/D11/D11-1142.pdf). EMNLP2011: 1535-1545.  
+4. Fan J, Kalyanpur A, Gondek D C, et al. [Automatic knowledge extraction from documents](http://brenocon.com/watson_special_issue/05%20automatic%20knowledge%20extration.pdf). IBM Journal of Research and Development, 2012, 56(3.4): 5: 1-5: 10.  
 
 * **实体识别** 
 
 * **关系抽取**  
+1. Wang C, Kalyanpur A, Fan J, et al. [Relation extraction and scoring in DeepQA](http://brenocon.com/watson_special_issue/09%20relation%20extraction%20and%20scoring.pdf). IBM Journal of Research and Development, 2012, 56(3.4): 9: 1-9: 12.  
 
 * **事件抽取**  
 
@@ -114,7 +116,9 @@
 3. Zou L, Özsu M T, Chen L, et al. [gStore: a graph-based SPARQL query engine](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.386.7427&rep=rep1&type=pdf). The VLDB Journal—The International Journal on Very Large Data Bases, 2014, 23(4): 565-590.  
   
 ## 人机交互  
-1. Zhou H, Young T, Huang M, et al. [Commonsense Knowledge Aware Conversation Generation with Graph Attention](https://www.ijcai.org/proceedings/2018/0643.pdf). IJCAI. 2018: 4623-4629.  
+1. Ferrucci D A. [Introduction to “this is watson”](https://ieeexplore.ieee.org/abstract/document/6177724/). IBM Journal of Research and Development, 2012, 56(3.4): 1: 1-1: 15.  
+2. Lally A, Prager J M, McCord M C, et al. [Question analysis: How Watson reads a clue](http://www.patwardhans.net/papers/LallyEtAl12.pdf). IBM Journal of Research and Development, 2012, 56(3.4): 2: 1-2: 14.  
+3. Zhou H, Young T, Huang M, et al. [Commonsense Knowledge Aware Conversation Generation with Graph Attention](https://www.ijcai.org/proceedings/2018/0643.pdf). IJCAI. 2018: 4623-4629.  
 
 # 附录B：最新进展论文选读(近1年内)
 1. Bhatia S, Dwivedi P, Kaur A. That’s Interesting, Tell Me More! [Finding Descriptive Support Passages for Knowledge Graph Relationships](http://sumitbhatia.net/papers/iswc18.pdf). ISWC2018: 250-267. (Best Paper)  
@@ -126,6 +130,9 @@
 7. Schlichtkrull M, Kipf T N, Bloem P, et al. [Modeling relational data with graph convolutional networks](https://arxiv.org/pdf/1703.06103). ESWC2018: 593-607. (Best Student Paper)  
 8. Hamid Z, Giulio N, Jens L. Formal Query Generation for Question Answering over Knowledge Bases. ESWC2018:714-728.  
 9. Zhou L, Gao J, Li D, et al. [The Design and Implementation of XiaoIce, an Empathetic Social Chatbot](https://arxiv.org/pdf/1812.08989). arXiv preprint arXiv:1812.08989, 2018.  
+10. Dasgupta S S, Ray S N, Talukdar P. [HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding](http://www.aclweb.org/anthology/D18-1225). EMNLP2018: 2001-2011.  
+11. Dubey M, Banerjee D, Chaudhuri D, et al. [EARL: Joint entity and relation linking for question answering over knowledge graphs](https://arxiv.org/pdf/1801.03825)ISWC2018: 108-126.  
+12. Chen M, Tian Y, Chang K W, et al. [Co-training embeddings of knowledge graphs and entity descriptions for cross-lingual entity alignment](http://yellowstone.cs.ucla.edu/~muhao/slides/kdcoe.pdf). IJCAI2018.  
 
 
 
