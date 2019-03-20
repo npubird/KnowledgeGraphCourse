@@ -47,7 +47,8 @@
 1. Hoffart J, Suchanek F M, Berberich K, et al. [YAGO2: A spatially and temporally enhanced knowledge base from Wikipedia](https://people.mpi-inf.mpg.de/~kberberi/publications/2013-ai.pdf). Artificial Intelligence, 2013, 194: 28-61.  
 1. Navigli R, Ponzetto S P. [BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network](http://web.informatik.uni-mannheim.de/ponzetto/pubs/navigli12b.pdf). Artificial Intelligence, 2012, 193: 217-250.  
 1. Auer S, Bizer C, Kobilarov G, et al. [Dbpedia: A nucleus for a web of open data](http://editthis.info/images/swim/d/d8/Dbpedia_-_open_data.pdf). ISWC2007: 722-735.  
-1. Mitchell T, Cohen W, Hruschka E, et al. [Never-ending learning](https://dl.acm.org/ft_gateway.cfm?id=3191513&type=pdf). Communications of the ACM, 2018, 61(5): 103-115. [earlier work](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1879/2201) 
+1. Mitchell T, Cohen W, Hruschka E, et al. [Never-ending learning](https://dl.acm.org/ft_gateway.cfm?id=3191513&type=pdf). Communications of the ACM, 2018, 61(5): 103-115. [earlier work](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1879/2201)  
+2. Noy N F, McGuinness D L. [Ontology development 101: A guide to creating your first ontology](http://www.corais.org/sites/default/files/ontology_development_101_aguide_to_creating_your_first_ontology.pdf). 2001.
 
 ## 知识表示和建模
 
@@ -133,6 +134,7 @@
 10. Dasgupta S S, Ray S N, Talukdar P. [HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding](http://www.aclweb.org/anthology/D18-1225). EMNLP2018: 2001-2011.  
 11. Dubey M, Banerjee D, Chaudhuri D, et al. [EARL: Joint entity and relation linking for question answering over knowledge graphs](https://arxiv.org/pdf/1801.03825)ISWC2018: 108-126.  
 12. Chen M, Tian Y, Chang K W, et al. [Co-training embeddings of knowledge graphs and entity descriptions for cross-lingual entity alignment](http://yellowstone.cs.ucla.edu/~muhao/slides/kdcoe.pdf). IJCAI2018.  
+13. Janke D, Staab S, Thimm M. [Impact analysis of data placement strategies on query efforts in distributed rdf stores](http://mail.websemanticsjournal.org/preprints/index.php/ps/article/view/516/533). Journal of Web Semantics, 2018, 50: 21-48.  
 
 
 
