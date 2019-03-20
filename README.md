@@ -48,15 +48,13 @@
 1. Navigli R, Ponzetto S P. [BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network](http://web.informatik.uni-mannheim.de/ponzetto/pubs/navigli12b.pdf). Artificial Intelligence, 2012, 193: 217-250.  
 1. Auer S, Bizer C, Kobilarov G, et al. [Dbpedia: A nucleus for a web of open data](http://editthis.info/images/swim/d/d8/Dbpedia_-_open_data.pdf). ISWC2007: 722-735.  
 1. Mitchell T, Cohen W, Hruschka E, et al. [Never-ending learning](https://dl.acm.org/ft_gateway.cfm?id=3191513&type=pdf). Communications of the ACM, 2018, 61(5): 103-115. [earlier work](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1879/2201)  
-2. Noy N F, McGuinness D L. [Ontology development 101: A guide to creating your first ontology](http://www.corais.org/sites/default/files/ontology_development_101_aguide_to_creating_your_first_ontology.pdf). 2001.
 
 ## 知识表示和建模
-
 1. Sowa J F. Knowledge representation: logical, philosophical, and computational foundations. 1999.  
-2. Noy N F, McGuinness D L. [Ontology Development 101: A Guide to Creating Your First Ontology](http://ftp.ksl.stanford.edu/people/dlm/papers/ontology-tutorial-noy-mcguinness.pdf).  
+2. Noy N F, McGuinness D L. [Ontology Development 101: A Guide to Creating Your First Ontology](http://ftp.ksl.stanford.edu/people/dlm/papers/ontology-tutorial-noy-mcguinness.pdf). [another version](http://www.corais.org/sites/default/files/ontology_development_101_aguide_to_creating_your_first_ontology.pdf) 
 
 ## 知识抽取
-* **信息抽取**  
+* **信息抽取**
 1. Etzioni O, Cafarella M, Downey D, et al. [Web-scale information extraction in knowitall:(preliminary results)](http://www2004.org/proceedings/docs/1p100.pdf).WWW2004: 100-110.  
 2. Banko M, Cafarella M J, Soderland S, et al. [Open information extraction from the web](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-429.pdf). IJCAI2007, 7: 2670-2676.  
 3. Fader A, Soderland S, Etzioni O. [Identifying relations for open information extraction](https://aclanthology.info/pdf/D/D11/D11-1142.pdf). EMNLP2011: 1535-1545.  
