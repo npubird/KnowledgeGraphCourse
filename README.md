@@ -31,12 +31,18 @@
 
 ## 第3讲 知识建模 （2019-3-15，2019-3-22）
 3.1 本体  
-3.2 知识建模方法学 
+3.2 知识建模方法 
 + 本体工程   
 + 本体学习  
 + 知识建模工具  
 + 知识建模实践  
 
+## 第4讲 知识抽取基础:问题和方法（2019-3-22）
+4.1 知识抽取场景  
+4.2 知识抽取挑战  
+4.3 面向结构化数据的知识抽取  
+4.4 面向半结构化数据的知识抽取  
+4.5 面向非机构化数据的知识抽取  
 
 
 # 附录A：经典文献选读
@@ -57,13 +63,16 @@
 * **信息抽取**
 1. Etzioni O, Cafarella M, Downey D, et al. [Web-scale information extraction in knowitall:(preliminary results)](http://www2004.org/proceedings/docs/1p100.pdf).WWW2004: 100-110.  
 2. Banko M, Cafarella M J, Soderland S, et al. [Open information extraction from the web](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-429.pdf). IJCAI2007, 7: 2670-2676.  
+3. Sarawagi S. [Information extraction](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.442.2007&rep=rep1&type=pdf). Foundations and Trends® in Databases, 2008, 1(3): 261-377.  
 3. Fader A, Soderland S, Etzioni O. [Identifying relations for open information extraction](https://aclanthology.info/pdf/D/D11/D11-1142.pdf). EMNLP2011: 1535-1545.  
 4. Fan J, Kalyanpur A, Gondek D C, et al. [Automatic knowledge extraction from documents](http://brenocon.com/watson_special_issue/05%20automatic%20knowledge%20extration.pdf). IBM Journal of Research and Development, 2012, 56(3.4): 5: 1-5: 10.  
+5. Hearst M A. [Automatic acquisition of hyponyms from large text corpora](http://www.aclweb.org/anthology/C92-2082). ACL1992: 539-545.  
 
 * **实体识别** 
 
 * **关系抽取**  
 1. Wang C, Kalyanpur A, Fan J, et al. [Relation extraction and scoring in DeepQA](http://brenocon.com/watson_special_issue/09%20relation%20extraction%20and%20scoring.pdf). IBM Journal of Research and Development, 2012, 56(3.4): 9: 1-9: 12.  
+2. Han X, Zhu H, Yu P, et al. [FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation](https://arxiv.org/pdf/1810.10147). EMNLP2018.  
 
 * **事件抽取**  
 
