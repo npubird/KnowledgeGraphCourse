@@ -26,7 +26,7 @@
 + 描述逻辑  
 + 本体  
 + 本体语言  
-+ 统计表示学习   
++ 统计表示学习  
 **课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-2知识表示.pdf)
 
 ## 第3讲 知识建模 （2019-3-15，2019-3-22）
@@ -72,7 +72,8 @@
 
 * **关系抽取**  
 1. Wang C, Kalyanpur A, Fan J, et al. [Relation extraction and scoring in DeepQA](http://brenocon.com/watson_special_issue/09%20relation%20extraction%20and%20scoring.pdf). IBM Journal of Research and Development, 2012, 56(3.4): 9: 1-9: 12.  
-2. Han X, Zhu H, Yu P, et al. [FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation](https://arxiv.org/pdf/1810.10147). EMNLP2018.  
+
+
 
 * **事件抽取**  
 
@@ -103,10 +104,11 @@
 ## 知识图谱嵌入  
 1. Wang Q, Mao Z, Wang B, et al. [Knowledge graph embedding: A survey of approaches and applications](http://download.xuebalib.com/3at6CEQL3eBi.pdf). IEEE Transactions on Knowledge and Data Engineering, 2017, 29(12): 2724-2743.  
 2. Bordes A, Usunier N, Garcia-Duran A, et al. [Translating embeddings for modeling multi-relational data](http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf). NIPS2013: 2787-2795.  
-3. Lin Y, Liu Z, Sun M, et al. [Learning entity and relation embeddings for knowledge graph completion](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9571/9523). AAAI2015.  
-4. Wang Z, Zhang J, Feng J, et al. [Knowledge graph embedding by translating on hyperplanes](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8531/8546). AAAI2014.  
-5. Wang Z, Zhang J, Feng J, et al. [Knowledge graph and text jointly embedding](http://www.aclweb.org/anthology/D14-1167). EMNLP2014: 1591-1601.  
-6. Ji G, He S, Xu L, et al. [Knowledge graph embedding via dynamic mapping matrix](http://www.aclweb.org/anthology/P15-1067). ACL2015: 687-696.  
+3. Mikolov T, Sutskever I, Chen K, et al. [Distributed representations of words and phrases and their compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf). NIPS2013: 3111-3119.  
+4. Lin Y, Liu Z, Sun M, et al. [Learning entity and relation embeddings for knowledge graph completion](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9571/9523). AAAI2015.  
+5. Wang Z, Zhang J, Feng J, et al. [Knowledge graph embedding by translating on hyperplanes](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8531/8546). AAAI2014.  
+6. Wang Z, Zhang J, Feng J, et al. [Knowledge graph and text jointly embedding](http://www.aclweb.org/anthology/D14-1167). EMNLP2014: 1591-1601.  
+7. Ji G, He S, Xu L, et al. [Knowledge graph embedding via dynamic mapping matrix](http://www.aclweb.org/anthology/P15-1067). ACL2015: 687-696.  
   
 
 
@@ -127,6 +129,13 @@
 1. Ferrucci D A. [Introduction to “this is watson”](https://ieeexplore.ieee.org/abstract/document/6177724/). IBM Journal of Research and Development, 2012, 56(3.4): 1: 1-1: 15.  
 2. Lally A, Prager J M, McCord M C, et al. [Question analysis: How Watson reads a clue](http://www.patwardhans.net/papers/LallyEtAl12.pdf). IBM Journal of Research and Development, 2012, 56(3.4): 2: 1-2: 14.  
 3. Zhou H, Young T, Huang M, et al. [Commonsense Knowledge Aware Conversation Generation with Graph Attention](https://www.ijcai.org/proceedings/2018/0643.pdf). IJCAI. 2018: 4623-4629.  
+4. Zhu Y, Zhang C, Ré C, et al. [Building a large-scale multimodal knowledge base system for answering visual queries](https://pdfs.semanticscholar.org/9563/d6fafb6ba09c082a57e8d9b31494029a45ac.pdf). arXiv:1507.05670, 2015.  
+5. Auli M, Galley M, Quirk C, et al. [Joint language and translation modeling with recurrent neural networks](http://www.aclweb.org/anthology/D13-1106). EMNLP2013:1044–1054.  
+6. Bahdanau D, Cho K, Bengio Y. [Neural machine translation by jointly learning to align and translate](https://arxiv.org/abs/1409.0473). arXiv preprint arXiv:1409.0473, 2014.  
+7. Cho K, Van Merriënboer B, Gulcehre C, et al. [Learning phrase representations using RNN encoder-decoder for statistical machine translation](http://anthology.aclweb.org/D/D14/D14-1179.pdf). EMNLP2014.  
+8. Chung J, Gulcehre C, Cho K H, et al. [Empirical evaluation of gated recurrent neural networks on sequence modeling](https://arxiv.org/abs/1412.3555). arXiv preprint arXiv:1412.3555, 2014.  
+9. Graves A. [Generating sequences with recurrent neural networks](https://arxiv.org/abs/1308.0850). arXiv preprint arXiv:1308.0850, 2013.  
+10. 
 
 # 附录B：最新进展论文选读(近1年内)
 1. Bhatia S, Dwivedi P, Kaur A. That’s Interesting, Tell Me More! [Finding Descriptive Support Passages for Knowledge Graph Relationships](http://sumitbhatia.net/papers/iswc18.pdf). ISWC2018: 250-267. (Best Paper)  
@@ -142,6 +151,14 @@
 11. Dubey M, Banerjee D, Chaudhuri D, et al. [EARL: Joint entity and relation linking for question answering over knowledge graphs](https://arxiv.org/pdf/1801.03825)ISWC2018: 108-126.  
 12. Chen M, Tian Y, Chang K W, et al. [Co-training embeddings of knowledge graphs and entity descriptions for cross-lingual entity alignment](http://yellowstone.cs.ucla.edu/~muhao/slides/kdcoe.pdf). IJCAI2018.  
 13. Janke D, Staab S, Thimm M. [Impact analysis of data placement strategies on query efforts in distributed rdf stores](http://mail.websemanticsjournal.org/preprints/index.php/ps/article/view/516/533). Journal of Web Semantics, 2018, 50: 21-48.  
+14. Han X, Zhu H, Yu P, et al. [FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation](https://arxiv.org/pdf/1810.10147). EMNLP2018.  
+15. Hou Y, Liu Y, Che W, et al. [Sequence-to-Sequence Data Augmentation for Dialogue Language Understanding](http://www.aclweb.org/anthology/C18-1105). ACL2018: 1234-1245.  
+16. Tran V K, Nguyen L M. [Adversarial Domain Adaptation for Variational Neural Language Generation in Dialogue Systems](http://www.aclweb.org/anthology/C18-1103). COLING2018: 1205-1217.  
+17. Zhang W, Cui Y, Wang Y, et al. [Context-Sensitive Generation of Open-Domain Conversational Responses](http://www.aclweb.org/anthology/C18-1206). COLING2018: 2437-2447.  
+18. Shi W, Yu Z. [Sentiment Adaptive End-to-End Dialog Systems](http://www.aclweb.org/anthology/P18-1140). ACL2018, 1: 1509-1519.  
+19. Zhang S, Dinan E, Urbanek J, et al. [Personalizing Dialogue Agents: I have a dog, do you have pets too?](http://www.aclweb.org/anthology/P18-1205) ACL2018, 1: 2204-2213.  
+20. Wei Z, Liu Q, Peng B, et al. [Task-oriented dialogue system for automatic diagnosis](http://www.aclweb.org/anthology/P18-2033). ACL2018, 2: 201-207.  
+21. Sungjoon Park, Donghyun Kim and Alice Oh. [Conversation Model Fine-Tuning for Classifying Client Utterances in Counseling Dialogues](). NAACL2019.
 
 
 
