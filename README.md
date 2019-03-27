@@ -44,8 +44,18 @@
 4.3 面向结构化数据的知识抽取  
 4.4 面向半结构化数据的知识抽取  
 4.5 面向非机构化数据的知识抽取  
-**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-4知识抽取-问题和方法.pdf)
+**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-4知识抽取-问题和方法.pdf)  
 
+## 第5讲 知识抽取:数据采集（2019-3-29）
+5.1 数据采集原理和技术
++ 爬虫原理  
++ 请求和响应   
++ 多线程并行爬取   
++ 反爬机制应对   
+5.2 数据采集实践  
++ 百科 论坛 社交网络等爬取实践  
+
+## 第6讲 知识抽取:实体识别（2019-3-29）
 
 # 附录A：经典文献选读
 
@@ -71,6 +81,19 @@
 5. Hearst M A. [Automatic acquisition of hyponyms from large text corpora](http://www.aclweb.org/anthology/C92-2082). ACL1992: 539-545.  
 
 * **实体识别** 
+1. Nadeau D, Sekine S. [A survey of named entity recognition and classification](https://www.jbe-platform.com/content/journals/10.1075/li.30.1.03nad). Lingvisticae Investigationes, 2007, 30(1): 3-26.  
+2. Lample G, Ballesteros M, Subramanian S, et al. [Neural architectures for named entity recognition](https://arxiv.org/pdf/1603.01360.pdf). NAACL-HLT 2016.  
+3. Huang Z, Xu W, Yu K. [Bidirectional LSTM-CRF models for sequence tagging](https://arxiv.org/pdf/1508.01991.pdf). arXiv preprint arXiv:1508.01991, 2015.  
+4. Alhelbawy A, Gaizauskas R. [Graph ranking for collective named entity disambiguation](http://www.aclweb.org/anthology/P14-2013). ACL2014, 2: 75-80.  
+5. Florian R, Ittycheriah A, Jing H, et al. [Named entity recognition through classifier combination](http://www.aclweb.org/anthology/W03-0425). HLT-NAACL2003: 168-171.  
+6. Chiu J P C, Nichols E. [Named entity recognition with bidirectional LSTM-CNNs](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00104). Transactions of the Association for Computational Linguistics, 2016, 4: 357-370.  
+7. Nothman J, Ringland N, Radford W, et al. [Learning multilingual named entity recognition from Wikipedia](https://www.sciencedirect.com/science/article/pii/S0004370212000276). Artificial Intelligence, 2013, 194: 151-175.  
+8. Santos C N, Guimaraes V. [Boosting named entity recognition with neural character embeddings](https://arxiv.org/pdf/1505.05008). Proceedings of NEWS 2015 The Fifth Named Entities Workshop, 2015.  
+9. Chiticariu L, Krishnamurthy R, Li Y, et al. [Domain adaptation of rule-based annotators for named-entity recognition tasks](http://www.aclweb.org/anthology/D10-1098). EMNLP2010: 1002-1012.  
+10. Shaalan K. [A survey of arabic named entity recognition and classification](https://www.mitpressjournals.org/doi/full/10.1162/COLI_a_00178). Computational Linguistics, 2014, 40(2): 469-510.  
+11. Speck R, Ngomo A C N. [Ensemble learning for named entity recognition](https://svn.aksw.org/papers/2014/ISWC_EL4NER/public.pdf). ISWC2014:519-534.  
+12. Habibi M, Weber L, Neves M, et al. [Deep learning with word embeddings improves biomedical named entity recognition](https://academic.oup.com/bioinformatics/article/33/14/i37/3953940). Bioinformatics, 2017, 33(14): i37-i48.  
+
 
 * **关系抽取**  
 1. Wang C, Kalyanpur A, Fan J, et al. [Relation extraction and scoring in DeepQA](http://brenocon.com/watson_special_issue/09%20relation%20extraction%20and%20scoring.pdf). IBM Journal of Research and Development, 2012, 56(3.4): 9: 1-9: 12.  
