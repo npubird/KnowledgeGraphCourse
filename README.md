@@ -11,7 +11,7 @@
 1.2 知识图谱 VS 深度学习  
 1.3 知识图谱 VS 关系数据库 VS 传统专家库  
 1.4 知识图谱本质和核心价值  
-1.5 知识图谱技术体系    
+1.5 知识图谱技术体系  
 1.6 典型知识图谱  
 1.7 知识图谱应用场景  
 **课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱概论A.pdf)   [partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱概论B.pdf)   [partC](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱概论C.pdf)
@@ -56,8 +56,29 @@
 + 反爬机制应对   
 5.2 数据采集实践  
 + 百科 论坛 社交网络等爬取实践  
+**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-5知识抽取-数据获取.pdf)    
 
 ## 第6讲 知识抽取:实体识别（2019-3-29）
+6.1 实体识别基本概念  
+6.2 基于规则和词典的实体识别方法  
+6.3 基于机器学习的实体识别方法  
+6.4 基于深度学习的实体识别方法  
+6.5 基于半监督学习的实体识别方法  
+6.6 基于迁移学习的实体识别方法  
+6.7 基于预训练的实体识别方法  
+**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-6知识抽取-实体识别.pdf)  
+
+## 第7讲 知识抽取:关系抽取（2019-4-12）
+
+
+## 第8讲 知识抽取:事件抽取（2019-3-29）
+8.1 事件抽取基本概念  
+8.2 基于规则和模板的方法  
+8.3 基于机器学习的方法  
+8.4 基于深度学习的方法  
+8.5 基于知识库的方法  
+8.6 基于强化学习的方法  
+**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-8知识抽取-事件抽取.pdf)  
 
 # 附录A：经典文献选读
 
@@ -103,7 +124,15 @@
 
 
 * **事件抽取**  
+1. [Chen Y, Xu L, Liu K, et al. Event extraction via dynamic multi-pooling convolutional neural networks[C]//Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers). 2015, 1: 167-176.](http://www.aclweb.org/anthology/P15-1017)
 
+[Nguyen T H, Grishman R. Event detection and domain adaptation with convolutional neural networks[C]//Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 2: Short Papers). 2015, 2: 365-371.](http://www.aclweb.org/anthology/P15-2060)
+
+[Hogenboom F, Frasincar F, Kaymak U, et al. An overview of event extraction from text[C]//Workshop on Detection, Representation, and Exploitation of Events in the Semantic Web (DeRiVE 2011) at Tenth International Semantic Web Conference (ISWC 2011). Koblenz, Germany: CEUR‐WS. org, 2011, 779: 48-57.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.369.7040&rep=rep1&type=pdf)
+
+[Narasimhan K, Yala A, Barzilay R. Improving information extraction by acquiring external evidence with reinforcement learning[J]. arXiv preprint arXiv:1603.07954, 2016.](https://arxiv.org/pdf/1603.07954.pdf)
+
+[Nguyen T H, Cho K, Grishman R. Joint event extraction via recurrent neural networks[C]//Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2016: 300-309.](http://www.aclweb.org/anthology/N16-1034)
 
 ## 知识融合  
 1. Shvaiko P, Euzenat J. [Ontology matching: state of the art and future challenges](https://hal.inria.fr/hal-00917910/document). IEEE Transactions on knowledge and data engineering, 2013, 25(1): 158-176.  
@@ -185,7 +214,100 @@
 18. Shi W, Yu Z. [Sentiment Adaptive End-to-End Dialog Systems](http://www.aclweb.org/anthology/P18-1140). ACL2018, 1: 1509-1519.  
 19. Zhang S, Dinan E, Urbanek J, et al. [Personalizing Dialogue Agents: I have a dog, do you have pets too?](http://www.aclweb.org/anthology/P18-1205) ACL2018, 1: 2204-2213.  
 20. Wei Z, Liu Q, Peng B, et al. [Task-oriented dialogue system for automatic diagnosis](http://www.aclweb.org/anthology/P18-2033). ACL2018, 2: 201-207.  
-21. Sungjoon Park, Donghyun Kim and Alice Oh. [Conversation Model Fine-Tuning for Classifying Client Utterances in Counseling Dialogues](). NAACL2019.
+21. Sungjoon Park, Donghyun Kim and Alice Oh. [Conversation Model Fine-Tuning for Classifying Client Utterances in Counseling Dialogues](). NAACL2019.  
+
+## 实体识别
+### ACL
+
+[Parvez M R, Chakraborty S, Ray B, et al. Building language models for text with named entities[J]. arXiv preprint arXiv:1805.04836, 2018.](https://arxiv.org/pdf/1805.04836.pdf)
+
+[Lin Y, Yang S, Stoyanov V, et al. A multi-lingual multi-task architecture for low-resource sequence labeling[C]//Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2018, 1: 799-809.](http://www.aclweb.org/anthology/P18-1074)
+
+[Xu H, Liu B, Shu L, et al. Double embeddings and cnn-based sequence labeling for aspect extraction[J]. arXiv preprint arXiv:1805.04601, 2018.](https://arxiv.org/pdf/1805.04601.pdf)
+
+[Ye Z X, Ling Z H. Hybrid semi-markov crf for neural sequence labeling[J]. arXiv preprint arXiv:1805.03838, 2018.](https://arxiv.org/pdf/1805.03838.pdf)
+
+[Yang J, Zhang Y. Ncrf++: An open-source neural sequence labeling toolkit[J]. arXiv preprint arXiv:1806.05626, 2018.](https://arxiv.org/pdf/1806.05626.pdf)
+
+### NAACL
+
+[Ju M, Miwa M, Ananiadou S. A neural layered model for nested named entity recognition[C]//Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers). 2018, 1: 1446-1459.](http://www.aclweb.org/anthology/N18-1131)
+
+[Wang Z, Qu Y, Chen L, et al. Label-aware double transfer learning for cross-specialty medical named entity recognition[J]. arXiv preprint arXiv:1804.09021, 2018.](https://arxiv.org/pdf/1804.09021.pdf)
+
+[Moon S, Neves L, Carvalho V. Multimodal named entity recognition for short social ../media posts[J]. arXiv preprint arXiv:1802.07862, 2018.](https://arxiv.org/pdf/1802.07862.pdf)
+
+[Katiyar A, Cardie C. Nested named entity recognition revisited[C]//Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers). 2018, 1: 861-871.](http://www.aclweb.org/anthology/N18-1079)
+
+### EMNLP
+[Cao P, Chen Y, Liu K, et al. Adversarial Transfer Learning for Chinese Named Entity Recognition with Self-Attention Mechanism[C]//Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. 2018: 182-192.](http://www.aclweb.org/anthology/D18-1017)
+
+[Xie J, Yang Z, Neubig G, et al. Neural cross-lingual named entity recognition with minimal resources[J]. arXiv preprint arXiv:1808.09861, 2018.](https://arxiv.org/pdf/1808.09861.pdf)
+
+[Lin B Y, Lu W. Neural adaptation layers for cross-domain named entity recognition[J]. arXiv preprint arXiv:1810.06368, 2018.](https://arxiv.org/pdf/1810.06368.pdf)
+
+[Shang J, Liu L, Ren X, et al. Learning Named Entity Tagger using Domain-Specific Dictionary[J]. arXiv preprint arXiv:1809.03599, 2018.](https://arxiv.org/pdf/1809.03599.pdf)
+
+[Greenberg N, Bansal T, Verga P, et al. Marginal Likelihood Training of BiLSTM-CRF for Biomedical Named Entity Recognition from Disjoint Label Sets[C]//Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. 2018: 2824-2829.](http://www.aclweb.org/anthology/D18-1306)
+
+[Sohrab M G, Miwa M. Deep Exhaustive Model for Nested Named Entity Recognition[C]//Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. 2018: 2843-2849.](http://www.aclweb.org/anthology/D18-1309)
+
+[Yu X, Mayhew S, Sammons M, et al. On the Strength of Character Language Models for Multilingual Named Entity Recognition[J]. arXiv preprint arXiv:1809.05157, 2018.](https://arxiv.org/pdf/1809.05157.pdf)
+
+### COLING
+[Mai K, Pham T H, Nguyen M T, et al. An empirical study on fine-grained named entity recognition[C]//Proceedings of the 27th International Conference on Computational Linguistics. 2018: 711-722.](http://www.aclweb.org/anthology/C18-1060)
+
+[Nagesh A, Surdeanu M. An Exploration of Three Lightly-supervised Representation Learning Approaches for Named Entity Classification[C]//Proceedings of the 27th International Conference on Computational Linguistics. 2018: 2312-2324.](http://www.aclweb.org/anthology/C18-1196)
+
+[Bhutani N, Qian K, Li Y, et al. Exploiting Structure in Representation of Named Entities using Active Learning[C]//Proceedings of the 27th International Conference on Computational Linguistics. 2018: 687-699.](http://www.aclweb.org/anthology/C18-1058)
+
+[Yadav V, Bethard S. A survey on recent advances in named entity recognition from deep learning models[C]//Proceedings of the 27th International Conference on Computational Linguistics. 2018: 2145-2158.](http://www.aclweb.org/anthology/C18-1182)
+
+[Güngör O, Üsküdarlı S, Güngör T. Improving Named Entity Recognition by Jointly Learning to Disambiguate Morphological Tags[J]. arXiv preprint arXiv:1807.06683, 2018.](https://arxiv.org/pdf/1807.06683.pdf)
+
+[Chen L, Moschitti A. Learning to Progressively Recognize New Named Entities with Sequence to Sequence Models[C]//Proceedings of the 27th International Conference on Computational Linguistics. 2018: 2181-2191.](http://www.aclweb.org/anthology/C18-1185)
+
+[Ghaddar A, Langlais P. Robust lexical features for improved neural network named-entity recognition[J]. arXiv preprint arXiv:1806.03489, 2018.](https://arxiv.org/pdf/1806.03489.pdf)
+
+
+## 事件抽取
+### ACL
+[Choubey P K, Huang R. Improving Event Coreference Resolution by Modeling Correlations between Event Coreference Chains and Document Topic Structures[C]//Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2018, 1: 485-495.](http://www.aclweb.org/anthology/P18-1045)
+
+[Lin H, Lu Y, Han X, et al. Nugget Proposal Networks for Chinese Event Detection[J]. arXiv preprint arXiv:1805.00249, 2018.](https://arxiv.org/pdf/1805.00249.pdf)
+
+[Huang L, Ji H, Cho K, et al. Zero-shot transfer learning for event extraction[J]. arXiv preprint arXiv:1707.01066, 2017.](https://arxiv.org/pdf/1707.01066.pdf)
+
+[Hong Y, Zhou W, Zhang J, et al. Self-regulation: Employing a Generative Adversarial Network to Improve Event Detection[C]//Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2018, 1: 515-526.](http://www.aclweb.org/anthology/P18-1048)
+
+[Zhao Y, Jin X, Wang Y, et al. Document embedding enhanced event detection with hierarchical and supervised attention[C]//Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers). 2018, 2: 414-419.](http://www.aclweb.org/anthology/P18-2066)
+
+[Yang H, Chen Y, Liu K, et al. DCFEE: A Document-level Chinese Financial Event Extraction System based on Automatically Labeled Training Data[J]. Proceedings of ACL 2018, System Demonstrations, 2018: 50-55.](http://www.aclweb.org/anthology/P18-4009)
+
+### NAACL
+[Ferguson J, Lockard C, Weld D S, et al. Semi-Supervised Event Extraction with Paraphrase Clusters[J]. arXiv preprint arXiv:1808.08622, 2018.](https://arxiv.org/pdf/1808.08622.pdf)
+
+### EMNLP
+[Orr J W, Tadepalli P, Fern X. Event Detection with Neural Networks: A Rigorous Empirical Evaluation[J]. arXiv preprint arXiv:1808.08504, 2018.](https://arxiv.org/pdf/1808.08504.pdf)
+
+[Liu S, Cheng R, Yu X, et al. Exploiting Contextual Information via Dynamic Memory Network for Event Detection[J]. arXiv preprint arXiv:1810.03449, 2018.](https://arxiv.org/pdf/1810.03449.pdf)
+
+[Liu X, Luo Z, Huang H. Jointly multiple events extraction via attention-based graph information aggregation[J]. arXiv preprint arXiv:1809.09078, 2018.](https://arxiv.org/pdf/1809.09078.pdf)
+
+[Chen Y, Yang H, Liu K, et al. Collective Event Detection via a Hierarchical and Bias Tagging Networks with Gated Multi-level Attention Mechanisms[C]//Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. 2018: 1267-1276.](http://www.aclweb.org/anthology/D18-1158)
+
+[Lu W, Nguyen T H. Similar but not the Same: Word Sense Disambiguation Improves Event Detection via Neural Representation Matching[C]//Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. 2018: 4822-4828.](http://www.aclweb.org/anthology/D18-1517)
+
+### COLING
+[Araki J, Mitamura T. Open-Domain Event Detection using Distant Supervision[C]//Proceedings of the 27th International Conference on Computational Linguistics. 2018: 878-891.](http://www.aclweb.org/anthology/C18-1075)
+
+[Muis A O, Otani N, Vyas N, et al. Low-resource Cross-lingual Event Type Detection via Distant Supervision with Minimal Effort[C]//Proceedings of the 27th International Conference on Computational Linguistics. 2018: 70-82.](http://www.aclweb.org/anthology/C18-1007)
+
+[Kazeminejad G, Bonial C, Brown S W, et al. Automatically Extracting Qualia Relations for the Rich Event Ontology[C]//Proceedings of the 27th International Conference on Computational Linguistics. 2018: 2644-2652.](http://www.aclweb.org/anthology/C18-1224)
+
+[Liu Z, Mitamura T, Hovy E. Graph-Based Decoding for Event Sequencing and Coreference Resolution[J]. arXiv preprint arXiv:1806.05099, 2018.](https://arxiv.org/pdf/1806.05099.pdf)
+
+
 
 
 
