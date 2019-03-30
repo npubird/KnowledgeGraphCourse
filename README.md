@@ -53,7 +53,7 @@
 + 爬虫原理  
 + 请求和响应   
 + 多线程并行爬取   
-+ 反爬机制应对   
++ 反爬机制应对  
 5.2 数据采集实践  
 + 百科 论坛 社交网络等爬取实践  
 **课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-5知识抽取-数据获取.pdf)    
