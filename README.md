@@ -125,15 +125,11 @@
 
 
 * **事件抽取**  
-1. [Chen Y, Xu L, Liu K, et al. Event extraction via dynamic multi-pooling convolutional neural networks[C]//Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers). 2015, 1: 167-176.](http://www.aclweb.org/anthology/P15-1017)
-
-[Nguyen T H, Grishman R. Event detection and domain adaptation with convolutional neural networks[C]//Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 2: Short Papers). 2015, 2: 365-371.](http://www.aclweb.org/anthology/P15-2060)
-
-[Hogenboom F, Frasincar F, Kaymak U, et al. An overview of event extraction from text[C]//Workshop on Detection, Representation, and Exploitation of Events in the Semantic Web (DeRiVE 2011) at Tenth International Semantic Web Conference (ISWC 2011). Koblenz, Germany: CEUR‐WS. org, 2011, 779: 48-57.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.369.7040&rep=rep1&type=pdf)
-
-[Narasimhan K, Yala A, Barzilay R. Improving information extraction by acquiring external evidence with reinforcement learning[J]. arXiv preprint arXiv:1603.07954, 2016.](https://arxiv.org/pdf/1603.07954.pdf)
-
-[Nguyen T H, Cho K, Grishman R. Joint event extraction via recurrent neural networks[C]//Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2016: 300-309.](http://www.aclweb.org/anthology/N16-1034)
+1. Chen Y, Xu L, Liu K, et al. [Event extraction via dynamic multi-pooling convolutional neural networks](http://www.aclweb.org/anthology/P15-1017). ACL2015, 1: 167-176.  
+2. Nguyen T H, Grishman R. [Event detection and domain adaptation with convolutional neural networks](http://www.aclweb.org/anthology/P15-2060). ACL2015, 2: 365-371.  
+3. Hogenboom F, Frasincar F, Kaymak U, et al. [An overview of event extraction from text](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.369.7040&rep=rep1&type=pdf). DeRiVE2011.  
+4. Narasimhan K, Yala A, Barzilay R. [Improving information extraction by acquiring external evidence with reinforcement learning](https://arxiv.org/pdf/1603.07954.pdf). EMNLP2016.  
+5. Nguyen T H, Cho K, Grishman R. [Joint event extraction via recurrent neural networks](http://www.aclweb.org/anthology/N16-1034). NAACL2016: 300-309.  
 
 ## 知识融合  
 1. Shvaiko P, Euzenat J. [Ontology matching: state of the art and future challenges](https://hal.inria.fr/hal-00917910/document). IEEE Transactions on knowledge and data engineering, 2013, 25(1): 158-176.  
