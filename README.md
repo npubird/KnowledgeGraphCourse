@@ -2,7 +2,8 @@
 东南大学《知识图谱》研究生课程  
 时间：2019年春季（2月下旬\~5月中旬）  
 每周五下午2:00\~4:30  
-地点：东南大学九龙湖校区, 纪忠楼Y205
+地点：东南大学九龙湖校区, 纪忠楼Y205  
+答疑/讨论/建议：请致信 pwang AT seu.edu.cn
 
 
 # 课程内容
@@ -57,6 +58,7 @@
 
 5.2 数据采集实践  
 + 百科 论坛 社交网络等爬取实践  
+
 **课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-5知识抽取-数据获取.pdf)    
 
 ## 第6讲 知识抽取:实体识别（2019-3-29）
@@ -74,11 +76,11 @@
 
 ## 第8讲 知识抽取:事件抽取（2019-3-29）
 8.1 事件抽取基本概念  
-8.2 基于规则和模板的方法  
-8.3 基于机器学习的方法  
-8.4 基于深度学习的方法  
-8.5 基于知识库的方法  
-8.6 基于强化学习的方法  
+8.2 基于规则和模板的事件抽取方法  
+8.3 基于机器学习的事件抽取方法  
+8.4 基于深度学习的事件抽取方法  
+8.5 基于知识库的事件抽取方法  
+8.6 基于强化学习的事件抽取方法  
 **课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-8知识抽取-事件抽取.pdf)  
 
 # 附录A：经典文献选读
@@ -212,6 +214,7 @@
 19. Zhang S, Dinan E, Urbanek J, et al. [Personalizing Dialogue Agents: I have a dog, do you have pets too?](http://www.aclweb.org/anthology/P18-1205) ACL2018, 1: 2204-2213.  
 20. Wei Z, Liu Q, Peng B, et al. [Task-oriented dialogue system for automatic diagnosis](http://www.aclweb.org/anthology/P18-2033). ACL2018, 2: 201-207.  
 21. Sungjoon Park, Donghyun Kim and Alice Oh. [Conversation Model Fine-Tuning for Classifying Client Utterances in Counseling Dialogues](). NAACL2019.  
+22. Sebastian R. [Neural Transfer Learning for Natural Language Processing](http://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf). PhD Thesis. National University of Ireland, 2019.
 
 ## 实体识别
 ### ACL
