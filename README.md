@@ -189,15 +189,15 @@
 13. He S, Liu K, Ji G, et al. [Learning to represent knowledge graphs with gaussian embedding](http://ir.ia.ac.cn/bitstream/173211/11475/1/sig-alternate.pdf). Proceedings of the 24th ACM International on Conference on Information and Knowledge Management. ACM, 2015: 623-632. (**KB2E**)  
 14. Xiao H, Huang M, Zhu X. [TransG: A generative model for knowledge graph embedding](https://www.aclweb.org/anthology/P16-1219). Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2016, 1: 2316-2325. （**TransG**）
 
-* **---Semantic Models(Matrix Factorization Models)---**  
+* **---Semantic Matching Models(Matrix Factorization Models)---**  
 15. Jenatton R, Roux N L, Bordes A, et al. [A latent factor model for highly multi-relational data](https://papers.nips.cc/paper/4744-a-latent-factor-model-for-highly-multi-relational-data.pdf). NIPS. 2012: 3167-3175. (**LFM**)  
-16. Nickel M, Tresp V, Kriegel H P. [A Three-Way Model for Collective Learning on Multi-Relational Data](http://www.cip.ifi.lmu.de/~nickel/data/slides-icml2011.pdf). ICML. 2011, 11: 809-816. (**TESCAL**)  
+16. Nickel M, Tresp V, Kriegel H P. [A Three-Way Model for Collective Learning on Multi-Relational Data](http://www.cip.ifi.lmu.de/~nickel/data/slides-icml2011.pdf). ICML. 2011, 11: 809-816. (**RESCAL**)  
 17. Yang B, Yih W, He X, et al. [Embedding entities and relations for learning and inference in knowledge bases](https://arxiv.org/pdf/1412.6575). arXiv preprint arXiv:1412.6575, 2014. (**DistMult**)  
 18. Nickel M, Rosasco L, Poggio T. [Holographic embeddings of knowledge graphs](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/12484/11828). AAAI. 2016. (**HolE**)  
 19. Trouillon T, Welbl J, Riedel S, et al. [Complex embeddings for simple link prediction](http://www.jmlr.org/proceedings/papers/v48/trouillon16.pdf). International Conference on Machine Learning. 2016: 2071-2080. (**ComplEx**)  
 20. Liu H, Wu Y, Yang Y. [Analogical inference for multi-relational embeddings](https://arxiv.org/pdf/1705.02426). Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017: 2168-2178. (**ANALOGY**)  
 
-* **---Semantic Models(Neural Network Models)---**  
+* **---Semantic Matching Models(Neural Network Models)---**  
 21. Socher R, Chen D, Manning C D, et al. [Reasoning with neural tensor networks for knowledge base completion](https://papers.nips.cc/paper/5028-reasoning-with-neural-tensor-networks-for-knowledge-base-completion.pdf). NIPS. 2013: 926-934. (**SLM**)  
 22. Bordes A, Glorot X, Weston J, et al. [A semantic matching energy function for learning with multi-relational data](https://link.springer.com/article/10.1007/s10994-013-5363-6). Machine Learning, 2014, 94(2): 233-259. (**SME**)  
 23. Socher R, Chen D, Manning C D, et al. [Reasoning with neural tensor networks for knowledge base completion](https://papers.nips.cc/paper/5028-reasoning-with-neural-tensor-networks-for-knowledge-base-completion.pdf). NIPS. 2013: 926-934. (**NTN**)  
