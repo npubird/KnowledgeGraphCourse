@@ -115,7 +115,45 @@
 
 **课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-10知识图谱表示学习.pdf)  
 
+## 第11讲 知识存储（2019-5-10）
+11.1 知识存储概念  
+11.2 图数据库管理系统、模型、查询语言  
+11.3 RDF数据库管理系统、模型、查询语言  
+11.4 基于关系型数据库的知识存储  
 
+**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-11知识存储.pdf)  
+
+## 第12讲 基于知识的智能问答（2019-5-10）
+12.1 智能问答基础  
+12.2 问题理解  
+12.3 问题求解  
+12.4 基于模板的知识问答方法
+12.5 基于语义分析的知识问答方法
+12.6 基于深度学习的知识问答方法
+12.7 IBM Watson原理和技术剖析
+12.8 微软小冰的原理和技术剖析  
+
+**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-12知识问答-微软小冰.pdf)  
+
+## 第13讲 实体链接（2019-5-17）
+13.1 实体链接基本概念  
+13.2 基于概率生成模型的实体链接方法  
+13.3 基于主题模型的实体链接方法  
+13.4 基于图的实体链接方法
+13.5 基于深度学习的实体链接方法
+13.6 基于无监督的实体链接方法
+
+**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-13实体链接.pdf)  
+
+## 第14讲 知识推理（2019-5-17）
+14.1 知识推理基础概念  
+14.2 基于逻辑的知识推理方法  
+14.3 基于统计学习的知识推理方法
+14.4 基于图的知识推理方法  
+14.4 基于神经网络的知识推理方法
+14.5 多种方法混合的知识推理方法
+
+**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-14知识推理.pdf)  
 
 # 附录A：经典文献选读
 
