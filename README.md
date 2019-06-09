@@ -195,8 +195,39 @@
 
 * **关系抽取**  
 1. Wang C, Kalyanpur A, Fan J, et al. [Relation extraction and scoring in DeepQA](http://brenocon.com/watson_special_issue/09%20relation%20extraction%20and%20scoring.pdf). IBM Journal of Research and Development, 2012, 56(3.4): 9: 1-9: 12.  
+2. Socher R, Huval B, Manning C D, et al. [Semantic compositionality through recursive matrix-vector spaces](https://www.aclweb.org/anthology/D12-1110)[C]//EMNLP, 2012: 1201-1211.
 
+3. Liu C Y, Sun W B, Chao W H, et al. [Convolution neural network for relation extraction](https://link.springer.com/content/pdf/10.1007%2F978-3-642-53917-6.pdf)[C]//International Conference on Advanced Data Mining and Applications. Springer, Berlin, Heidelberg, 2013: 231-242.
 
+4. Zeng D, Liu K, Lai S, et al. [Relation classification via convolutional deep neural network](http://ir.ia.ac.cn/bitstream/173211/4797/1/Relation%20Classification%20via%20Convolutional%20Deep%20Neural%20Network.pdf)[J]. 2014.
+
+5. Santos, Cicero Nogueira dos, Bing Xiang, and Bowen Zhou. [“Classifying relations by ranking with convolutional neural networks.”](https://www.aclweb.org/anthology/P15-1061) In Proceedings of ACL, 2015.
+
+6. Zeng D, Liu K, Chen Y, et al. [Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks](https://www.aclweb.org/anthology/D15-1203)[C]//Emnlp. 2015: 1753-1762.
+
+7. Miwa M , Bansal M . [End-to-end Relation Extraction using LSTMs on Sequences and Tree Structures](https://www.aclweb.org/anthology/P16-1105)[J]. ACL, 2016: 1105–1116.
+
+8. Zhou P, Shi W, Tian J, et al. [Attention-based bidirectional long short-term memory networks for relation classification](http://anthology.aclweb.org/P16-2034)[C]//Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers). 2016, 2: 207-212.
+
+9. Lin Y, Shen S, Liu Z, et al. [Neural relation extraction with selective attention over instances](https://www.aclweb.org/anthology/P16-1200)[C]//Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2016, 1: 2124-2133.
+
+10. Cai R, Zhang X, Wang H. [Bidirectional recurrent convolutional neural network for relation classification](https://www.aclweb.org/anthology/P16-1072)[C]//Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2016, 1: 756-765.
+
+11. Wang L, Cao Z, De Melo G, et al. [Relation classification via multi-level attention cnns](http://eprints.bimcoordinator.co.uk/14/1/relation-classification.pdf)[J]. 2016.
+
+12. Zhou P, Shi W, Tian J, et al. [Attention-based bidirectional long short-term memory networks for relation classification](https://www.aclweb.org/anthology/P16-2034)[C]//Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers). 2016, 2: 207-212.
+
+13. Lin Y, Shen S, Liu Z, et al. [Neural relation extraction with selective attention over instances](https://www.aclweb.org/anthology/P16-1200)[C]//Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2016, 1: 2124-2133.
+
+14. Lin Y, Liu Z, Sun M. [Neural relation extraction with multi-lingual attention](https://www.aclweb.org/anthology/P17-1004)[C]//Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2017: 34-43.
+
+15. Huang Y Y, Wang W Y. [Deep residual learning for weakly-supervised relation extraction](https://www.aclweb.org/anthology/D17-1191)[J]//EMNLP, 2017: 1803–1807.
+
+16. Ji G, Liu K, He S, et al. [Distant supervision for relation extraction with sentence-level attention and entity descriptions](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14491/14078)[C]//Thirty-First AAAI Conference on Artificial Intelligence. 2017.
+
+17. Wu Y, Bamman D, Russell S. [Adversarial training for relation extraction](https://www.aclweb.org/anthology/D17-1187)[C]//Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing. 2017: 1778-1783.
+
+18. Ren X, Wu Z, He W, et al. [Cotype: Joint extraction of typed entities and relations with knowledge bases](https://www.ijcai.org/proceedings/2018/0620.pdf)[C]//Proceedings of the 26th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2017: 1015-1024.
 
 * **事件抽取**  
 1. Chen Y, Xu L, Liu K, et al. [Event extraction via dynamic multi-pooling convolutional neural networks](http://www.aclweb.org/anthology/P15-1017). ACL2015, 1: 167-176.  
@@ -405,6 +436,17 @@ https://www.aclweb.org/anthology/D14-1167). EMNLP. 2014: 1591-1601.
 59. Muis A O, Otani N, Vyas N, et al. [Low-resource Cross-lingual Event Type Detection via Distant Supervision with Minimal Effort](http://www.aclweb.org/anthology/C18-1007). Proceedings of the 27th International Conference on Computational Linguistics. 2018: 70-82.  
 60. Kazeminejad G, Bonial C, Brown S W, et al. [Automatically Extracting Qualia Relations for the Rich Event Ontology](http://www.aclweb.org/anthology/C18-1224). Proceedings of the 27th International Conference on Computational Linguistics. 2018: 2644-2652.  
 61. Liu Z, Mitamura T, Hovy E. [Graph-Based Decoding for Event Sequencing and Coreference Resolution](https://arxiv.org/pdf/1806.05099.pdf). COLING2018.  
+
+* **---关系抽取---** 
+62. Su Y, Liu H, Yavuz S, et al. [Global relation embedding for relation extraction](https://www.aclweb.org/anthology/N18-1075), NAACL2018:820-830.  
+63. Zeng X, He S, Liu K, et al. [Large scaled relation extraction with reinforcement learning](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16257/16125), AAAI2018.  
+64. Liu T, Zhang X, Zhou W, et al. [Neural relation extraction via inner-sentence noise reduction and transfer learning](https://aclweb.org/anthology/D18-1243), EMNLP2018:2195-2204.  
+65. Wang S, Zhang Y, Che W, et al. [Joint Extraction of Entities and Relations Based on a Novel Graph Scheme](http://ir.hit.edu.cn/~car/papers/ijcai18slwang.pdf), IJCAI2018: 4461-4467.  
+66. Feng J, Huang M, Zhao L, et al.[ Reinforcement learning for relation classification from noisy data](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/17151/16140), AAAI2018.  
+67. He Z, Chen W, Li Z, et al. [SEE: Syntax-aware entity embedding for neural relation extraction](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16362/16142), AAAI2018.  
+68. Vashishth S , Joshi R , Prayaga S S , et al. [RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information](https://www.aclweb.org/anthology/D18-1157). ACL2018.  
+69. Tan Z, Zhao X, Wang W, et al. [Jointly Extracting Multiple Triplets with Multilayer Translation Constraints](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/17151/16140). AAAI2018.  
+70. Ryuichi Takanobu, Tianyang Zhang, JieXi Liu, Minlie Huang[A Hierarchical Framework for Relation Extraction with Reinforcement Learning](https://arxiv.org/pdf/1811.03925.pdf), AAAI2019. 
 
 
 
