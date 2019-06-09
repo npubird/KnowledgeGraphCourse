@@ -94,6 +94,29 @@
 
 **课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-8知识抽取-事件抽取.pdf)  
 
+## 第9讲 知识融合（2019-4-28）
+9.1 知识异构  
+9.2 本体匹配  
+9.3 匹配抽取和匹配调谐  
+9.4 实体匹配  
+9.5 大规模实体匹配处理  
+9.6 知识融合应用实例  
+
+**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-9知识融合.pdf)  
+
+## 第10讲 知识图谱表示学习（2019-5-5）
+10.1 知识表示学习概念  
+10.2 基于距离的表示学习模型  
+10.3 基于翻译的表示学习模型  
+10.4 基于语义的表示学习模型  
+10.5 融合多源信息的表示学习模型  
+10.6 知识图谱表示学习模型的评测
+10.7 知识图谱表示学习前沿进展和挑战  
+
+**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-10知识图谱表示学习.pdf)  
+
+
+
 # 附录A：经典文献选读
 
 ## 知识图谱构建
