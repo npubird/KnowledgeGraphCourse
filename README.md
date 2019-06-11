@@ -340,12 +340,48 @@ https://www.aclweb.org/anthology/D14-1167). EMNLP. 2014: 1591-1601.
 4. Lin Y, Liu Z, Luan H, et al. [Modeling relation paths for representation learning of knowledge bases](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP082.pdf). EMNLP2015.  
 5. Gardner M, Talukdar P, Krishnamurthy J, et al. [Incorporating vector space similarity in random walk inference over knowledge bases](http://www.aclweb.org/anthology/D14-1044). EMNLP2014: 397-406.  
 6. Xiong W, Hoang T, Wang W Y. [DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning](http://www.aclweb.org/anthology/D17-1060). EMNLP2017:564-573.  
+7. Socher R , Chen D , Manning C D , et al. [Reasoning With Neural Tensor Networks for Knowledge Base Completion[C]](https://nlp.stanford.edu/pubs/SocherChenManningNg_NIPS2013.pdf)// International Conference on Neural Information Processing Systems. Curran Associates Inc. 2013.  
+8. Shi B , Weninger T . [ProjE: Embedding Projection for Knowledge Graph Completion[J]](https://arxiv.org/pdf/1611.05425.pdf). 2016.  
+9. Shi B , Weninger T . [Open-World Knowledge Graph Completion[J]](https://arxiv.org/pdf/1711.03438.pdf). 2017.  
+10. Schlichtkrull M , Kipf T N , Bloem P , et al. [Modeling Relational Data with Graph Convolutional Networks[J]](https://arxiv.org/pdf/1703.06103.pdf). 2017.  
+11. PTransE: Sun M , Zhu H , Xie R , et al. [Iterative Entity Alignment via Joint Knowledge Embeddings[C]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/ijcai2017_entity.pdf)// International Joint Conference on Artificial Intelligence. AAAI Press, 2017.  
+12. Das R , Neelakantan A , Belanger D , et al. [Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks[J]](https://arxiv.org/pdf/1607.01426.pdf). 2016.  
+13. Shen Y , Huang P S , Chang M W , et al. [Modeling Large-Scale Structured Relationships with Shared Memory for Knowledge Base Completion[J]](https://128.84.21.199/pdf/1611.04642v2.pdf). 2016.  
+14. Graves A , Wayne G , Reynolds M , et al. [Hybrid computing using a neural network with dynamic external memory[J]](https://www.nature.com/articles/nature20101.pdf). Nature.  
+15. Yang F , Yang Z , Cohen W W . [Differentiable Learning of Logical Rules for Knowledge Base Reasoning[J]](https://arxiv.org/pdf/1702.08367.pdf). 2017.  
+
+
+## 实体链接
+1. Zhang W, Su J, Tan C L, et al.[ Entity linking leveraging: automatically generated annotation[C]](https://www.aclweb.org/anthology/C10-1145)// Proceedings of the 23rd International Conference on Computational Linguistics. Stroudsburg: Association for Computational Linguistics, 2010: 1290-1298.  
+2. Anastácio I, Martins B, Calado P. [Supervised learning for linking named entities to knowledge base entries[C]](https://tac.nist.gov//publications/2011/participant.papers/dmir_inescid.proceedings.pdf)// Proceedings of TAC. Gaithersburg: NIST, 2011: 1-12.  
+3. Francis-Landau M, Durrett G, Klein D. [Capturing semantic similarity for entity linking with convolutional neural networks[C]](https://arxiv.org/pdf/1604.00734.pdf)
+Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics. Stroudsburg: Association for Computational Linguistics, 2016: 1256-1261.  
+4. Sun Y, Lin L, Tang D, et al.[ Modeling mention, context and entity with neural networks for entity disambiguation](https://www.ijcai.org/Proceedings/15/Papers/192.pdf)// Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence. California: IJCAI, 2015: 1333-1339.  
+5. Han X, Sun L, Zhao J. [Collective entity linking in web text: a graph-based method[C]](http://www.nlpr.ia.ac.cn/2011papers/gjhy/gh133.pdf)// Proceedings of the 34th International ACM SIGIR Conference on Research and Development in Information Retrieval. New York: ACM Press, 2011: 765-774.  
+6. Rao D, McNamee P, Dredze M. [Entity linking: Finding extracted entities in a knowledge base](http://www.cs.jhu.edu/~delip/entity_linking.pdf)// Multi-source, Multilingual Information Extraction and Summarization. Berlin: Springer, 2013:93-115.  
+7. Guo Z, Barbosa D. [Robust entity linking via random walks[C]](https://dl.acm.org/citation.cfm?id=2661887)//Proceedings of the 23rd ACM International Conference on Conference on Information and Knowledge Management. New York:ACM Press, 2014: 499-508.  
+
 
 ## 知识存储/知识查询
 1. Bornea M A, Dolby J, Kementsietsidis A, et al. [Building an efficient RDF store over a relational database](https://www.researchgate.net/profile/Patrick_Dantressangle/publication/262162010_Building_an_efficient_RDF_store_over_a_relational_database/links/54f718680cf210398e9184bc/Building-an-efficient-RDF-store-over-a-relational-database.pdf). SIGMOD2013: 121-132.  
 2. Huang J, Abadi D J, Ren K. [Scalable SPARQL querying of large RDF graphs](http://www.cs.umd.edu/~abadi/papers/sw-graph-scale.pdf). Proceedings of the VLDB Endowment, 2011, 4(11): 1123-1134.  
 3. Zou L, Özsu M T, Chen L, et al. [gStore: a graph-based SPARQL query engine](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.386.7427&rep=rep1&type=pdf). The VLDB Journal—The International Journal on Very Large Data Bases, 2014, 23(4): 565-590.  
-  
+4. Wilkinson K, Sayers C, Kuno H, et al. [Efficient RDF storage and retrieval in Jena2](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.221.3451&rep=rep1&type=pdf#page=137)[C]//Proceedings of the First International Conference on Semantic Web and Databases. CEUR-WS. org, 2003: 120-139.  
+2. Zou L, Mo J, Chen L, et al. [gStore: answering SPARQL queries via subgraph matching](http://www.vldb.org/pvldb/vol4/p482-zou.pdf)[J]. Proceedings of the VLDB Endowment, 2011, 4(8): 482-493.  
+3. Das S, Agrawal D, El Abbadi A. [G-store: a scalable data store for transactional multi key access in the cloud](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.209.1087&rep=rep1&type=pdf)[C]//Proceedings of the 1st ACM symposium on Cloud computing. ACM, 2010: 163-174.  
+4. Zou L, Özsu M T, Chen L, et al. [gStore: a graph-based SPARQL query engine](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.386.7427&rep=rep1&type=pdf)[J]. The VLDB Journal—The International Journal on Very Large Data Bases, 2014, 23(4): 565-590.  
+5. Ma L, Su Z, Pan Y, et al. [RStar: an RDF storage and query system for enterprise resource management](https://www.researchgate.net/profile/Zhong_Su/publication/221614612_RStar_An_RDF_storage_and_query_system_for_enterprise_resource_management/links/02e7e5181cc6d57b09000000/RStar-An-RDF-storage-and-query-system-for-enterprise-resource-management.pdf)[C]//Proceedings of the thirteenth ACM international conference on Information and knowledge management. ACM, 2004: 484-491.  
+6.  Zeng K, Yang J, Wang H, et al. [A distributed graph engine for web scale RDF data](https://www.graphengine.io/downloads/papers/Trinity.RDF.pdf)[C]//Proceedings of the VLDB Endowment. VLDB Endowment, 2013, 6(4): 265-276.  
+7.  Sakr S, Al-Naymat G. [Relational processing of RDF queries: a survey](https://sigmodrecord.org/publications/sigmodRecord/0912/p23.survey.sakr.pdf)[J]. ACM SIGMOD Record, 2010, 38(4): 23-28.  
+8.  Harris S, Shadbolt N. [SPARQL query processing with conventional relational database systems](https://eprints.soton.ac.uk/261126/1/harris-ssws05.pdf)[C]//International Conference on Web Information Systems Engineering. Springer, Berlin, Heidelberg, 2005: 235-244.  
+9.  Angles R. [A comparison of current graph database models](https://www.researchgate.net/profile/Renzo_Angles/publication/261076480_A_Comparison_of_Current_Graph_Database_Models/links/54f05b180cf25f74d72609c3.pdf)[C]//2012 IEEE 28th International Conference on Data Engineering Workshops. IEEE, 2012: 171-177.  
+10. Miller J J. [Graph database applications and concepts with Neo4j](https://pdfs.semanticscholar.org/322a/6e1f464330751dea2eb6beecac24466322ad.pdf)[C]//Proceedings of the Southern Association for Information Systems Conference, Atlanta, GA, USA. 2013, 2324(S 36).  
+11. Iordanov B. [HyperGraphDB: a generalized graph database](https://www.researchgate.net/profile/Borislav_Iordanov/publication/225204980_HyperGraphDB_A_Generalized_Graph_Database/links/0fcfd509bfc6de5b9a000000/HyperGraphDB-A-Generalized-Graph-Database.pdf)[C]//International conference on web-age information management. Springer, Berlin, Heidelberg, 2010: 25-36.  
+12. Sun J, Jin Q. [Scalable rdf store based on hbase and mapreduce](https://ieeexplore.ieee.org/abstract/document/5578937/)[C]//2010 3rd international conference on advanced computer theory and engineering (ICACTE). IEEE, 2010, 1: V1-633-V1-636.  
+13. Huang J, Abadi D J, Ren K. [Scalable SPARQL querying of large RDF graphs](http://www.cs.umd.edu/~abadi/papers/sw-graph-scale.pdf)[J]. Proceedings of the VLDB Endowment, 2011, 4(11): 1123-1134.  
+14. Weiss C, Karras P, Bernstein A. [Hexastore: sextuple indexing for semantic web data management](http://people.csail.mit.edu/tdanford/6830papers/weiss-hexastore.pdf)[J]. Proceedings of the VLDB Endowment, 2008, 1(1): 1008-1019.  
+15. Neumann T, Weikum G. [The RDF-3X engine for scalable management of RDF data](https://pure.mpg.de/rest/items/item_1324253/component/file_1324252/content)[J]. The VLDB Journal—The International Journal on Very Large Data Bases, 2010, 19(1): 91-113.  
+
 ## 人机交互  
 1. Ferrucci D A. [Introduction to “this is watson”](https://ieeexplore.ieee.org/abstract/document/6177724/). IBM Journal of Research and Development, 2012, 56(3.4): 1: 1-1: 15.  
 2. Lally A, Prager J M, McCord M C, et al. [Question analysis: How Watson reads a clue](http://www.patwardhans.net/papers/LallyEtAl12.pdf). IBM Journal of Research and Development, 2012, 56(3.4): 2: 1-2: 14.  
@@ -446,10 +482,29 @@ https://www.aclweb.org/anthology/D14-1167). EMNLP. 2014: 1591-1601.
 67. He Z, Chen W, Li Z, et al. [SEE: Syntax-aware entity embedding for neural relation extraction](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16362/16142), AAAI2018.  
 68. Vashishth S , Joshi R , Prayaga S S , et al. [RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information](https://www.aclweb.org/anthology/D18-1157). ACL2018.  
 69. Tan Z, Zhao X, Wang W, et al. [Jointly Extracting Multiple Triplets with Multilayer Translation Constraints](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/17151/16140). AAAI2018.  
-70. Ryuichi Takanobu, Tianyang Zhang, JieXi Liu, Minlie Huang[A Hierarchical Framework for Relation Extraction with Reinforcement Learning](https://arxiv.org/pdf/1811.03925.pdf), AAAI2019. 
+70. Ryuichi Takanobu, Tianyang Zhang, JieXi Liu, Minlie Huang[A Hierarchical Framework for Relation Extraction with Reinforcement Learning](https://arxiv.org/pdf/1811.03925.pdf), AAAI2019.  
 
+* **---知识存储---** 
+71. Davoudian A, Chen L, Liu M. [A survey on NoSQL stores](https://dl.acm.org/citation.cfm?id=3158661)[J]. ACM Computing Surveys (CSUR), 2018, 51(2): 40.  
+72. Wylot M, Hauswirth M, Cudré-Mauroux P, et al. [RDF data storage and query processing schemes: A survey](https://exascale.info/assets/pdf/wylot2018survey.pdf)[J]. ACM Computing Surveys (CSUR), 2018, 51(4): 84.  
+73. Zeng L, Zou L. [Redesign of the gStore system](https://link.springer.com/article/10.1007/s11704-018-7212-z)[J]. Frontiers of Computer Science, 2018, 12(4): 623-641.  
+74. Zhang X, Zhang M, Peng P, et al. [ A Scalable Sparse Matrix-Based Join for SPARQL Query Processing](https://link.springer.com/chapter/10.1007/978-3-030-18590-9_77)[C]//International Conference on Database Systems for Advanced Applications. Springer, Cham, 2019: 510-514.  
+75. Libkin L, Reutter J L, Soto A, et al. [TriAL: A navigational algebra for RDF triplestores](http://www.research.ed.ac.uk/portal/files/44424184/tripalg_2.pdf)[J]. ACM Transactions on Database Systems (TODS), 2018, 43(1): 5.  
+76. Elzein N M, Majid M A, Hashem I A T, et al. [Managing big RDF data in clouds: Challenges, opportunities, and solutions](https://www.researchgate.net/profile/Ibrar_Yaqoob/publication/323377454_Managing_Big_RDF_Data_in_Clouds_Challenges_Opportunities_and_Solutions/links/5af126810f7e9ba366452ec6/Managing-Big-RDF-Data-in-Clouds-Challenges-Opportunities-and-Solutions.pdf)[J]. Sustainable Cities and Society, 2018, 39: 375-386.  
 
+* **---知识推理---** 
+77. Lin, Xi Victoria, Richard Socher, and Caiming Xiong. [Multi-hop knowledge graph reasoning with reward shaping.](https://arxiv.org/pdf/1808.10568.pdf) arXiv preprint arXiv:1808.10568 (2018).  
+78. Zhang, Y., Dai, H., Kozareva, Z., Smola, A. J., & Song, L. (2018, April). [Variational reasoning for question answering with knowledge graph.]((https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16983/16176)) In Thirty-Second AAAI Conference on Artificial Intelligence.  
+79. Gu, L., Xia, Y., Yuan, X., Wang, C., & Jiao, J. (2018). [Research on the model for tobacco disease prevention and control based on case-based reasoning and knowledge graph.](http://journal.pmf.ni.ac.rs/filomat/index.php/filomat/article/download/6806/2760) Filomat, 32(5).  
+80. Zhang, Y., Dai, H., Kozareva, Z., Smola, A. J., & Song, L. (2018, April).[Variational reasoning for question answering with knowledge graph.](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16983/16176) In Thirty-Second AAAI Conference on Artificial Intelligence.  
+81. Trivedi, R., Dai, H., Wang, Y., & Song, L. (2017, August). [Know-evolve: Deep temporal reasoning for dynamic knowledge graphs.](https://arxiv.org/pdf/1705.05742) In Proceedings of the 34th International Conference on Machine Learning-Volume 70 (pp. 3462-3471). JMLR. org.  
+82. Hamilton, W., Bajaj, P., Zitnik, M., Jurafsky, D., & Leskovec, J. (2018).[Embedding logical queries on knowledge graphs.](https://papers.nips.cc/paper/7473-embedding-logical-queries-on-knowledge-graphs.pdf) In Advances in Neural Information Processing Systems (pp. 2026-2037).  
 
-
-
+* **---实体链接---** 
+83. Sil, A., Kundu, G., Florian, R., & Hamza, W. (2018, April). [Neural cross-lingual entity linking.](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16501/16101) In Thirty-Second AAAI Conference on Artificial Intelligence.  
+84. Chen, H., Wei, B., Liu, Y., Li, Y., Yu, J., & Zhu, W. (2018). [Bilinear joint learning of word and entity embeddings for Entity Linking.](https://www.sciencedirect.com/science/article/pii/S0925231217318234) Neurocomputing, 294, 12-18.  
+85. Raiman, J. R., & Raiman, O. M. (2018, April). [DeepType: multilingual entity linking by neural type system evolution.](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/17148/16094) In Thirty-Second AAAI Conference on Artificial Intelligence.  
+86. Kundu, G., Sil, A., Florian, R., & Hamza, W. (2018). [Neural cross-lingual coreference resolution and its application to entity linking.](https://arxiv.org/pdf/1806.10201) arXiv preprint arXiv:1806.10201.  
+87. Kilias, T., Löser, A., Gers, F. A., Koopmanschap, R., Zhang, Y., & Kersten, M. (2018). [Idel: In-database entity linking with neural embeddings.](https://arxiv.org/pdf/1803.04884) arXiv preprint arXiv:1803.04884.  
+88. Cao, Y., Hou, L., Li, J., & Liu, Z. (2018). [Neural collective entity linking.](https://arxiv.org/pdf/1811.08603) arXiv preprint arXiv:1811.08603.
 
