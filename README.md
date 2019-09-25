@@ -255,6 +255,7 @@
 16. Tang J, Fong A C M, Wang B, et al. [A unified probabilistic framework for name disambiguation in digital library](http://keg.cs.tsinghua.edu.cn/jietang/publications/TKDE12-Tang-Name-Disambiguation.pdf). IEEE Transactions on Knowledge and Data Engineering, 2012, 24(6): 975-987.  
 17. Zhang Y, Zhang F, Yao P, et al. [Name Disambiguation in AMiner: Clustering, Maintenance, and Human in the Loop](http://keg.cs.tsinghua.edu.cn/jietang/publications/kdd18_yutao-AMiner-Name-Disambiguation.pdf). KDD2018: 1002-1011.  
 18. Ngomo A C N, Auer S. [LIMES—a time-efficient approach for large-scale link discovery on the web of data](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI11/paper/viewFile/3125/3692). IJCAI2011.  
+19. Sun, Zequn, Wei Hu, and Chengkai Li. [Cross-lingual entity alignment via joint attribute-preserving embedding.](https://arxiv.org/pdf/1708.05045) International Semantic Web Conference. Springer, Cham, 2017.  
 
  
 ## 知识图谱嵌入  
@@ -392,7 +393,7 @@ Proceedings of the 2016 Conference of the North American Chapter of the Associat
 7. Cho K, Van Merriënboer B, Gulcehre C, et al. [Learning phrase representations using RNN encoder-decoder for statistical machine translation](http://anthology.aclweb.org/D/D14/D14-1179.pdf). EMNLP2014.  
 8. Chung J, Gulcehre C, Cho K H, et al. [Empirical evaluation of gated recurrent neural networks on sequence modeling](https://arxiv.org/abs/1412.3555). arXiv preprint arXiv:1412.3555, 2014.  
 9. Graves A. [Generating sequences with recurrent neural networks](https://arxiv.org/abs/1308.0850). arXiv preprint arXiv:1308.0850, 2013.  
-10. 
+
 
 # 附录B：最新进展论文选读(近1年内)
 1. Bhatia S, Dwivedi P, Kaur A. That’s Interesting, Tell Me More! [Finding Descriptive Support Passages for Knowledge Graph Relationships](http://sumitbhatia.net/papers/iswc18.pdf). ISWC2018: 250-267. (Best Paper)  
@@ -510,4 +511,6 @@ Proceedings of the 2016 Conference of the North American Chapter of the Associat
 87. Kilias, T., Löser, A., Gers, F. A., Koopmanschap, R., Zhang, Y., & Kersten, M. (2018). [Idel: In-database entity linking with neural embeddings.](https://arxiv.org/pdf/1803.04884) arXiv preprint arXiv:1803.04884.  
 88. Cao, Y., Hou, L., Li, J., & Liu, Z. (2018). [Neural collective entity linking.](https://arxiv.org/pdf/1811.08603) arXiv preprint arXiv:1811.08603.
 
+* **---知识融合---** 
+Wang, Zhichun, et al. [Cross-lingual knowledge graph alignment via graph convolutional networks.](https://www.aclweb.org/anthology/D18-1032) Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. 2018.  
 
