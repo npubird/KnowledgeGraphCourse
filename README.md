@@ -416,7 +416,9 @@ Proceedings of the 2016 Conference of the North American Chapter of the Associat
 19. Zhang S, Dinan E, Urbanek J, et al. [Personalizing Dialogue Agents: I have a dog, do you have pets too?](http://www.aclweb.org/anthology/P18-1205) ACL2018, 1: 2204-2213.  
 20. Wei Z, Liu Q, Peng B, et al. [Task-oriented dialogue system for automatic diagnosis](http://www.aclweb.org/anthology/P18-2033). ACL2018, 2: 201-207.  
 21. Sungjoon Park, Donghyun Kim and Alice Oh. [Conversation Model Fine-Tuning for Classifying Client Utterances in Counseling Dialogues](). NAACL2019.  
-22. Sebastian R. [Neural Transfer Learning for Natural Language Processing](http://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf). PhD Thesis. National University of Ireland, 2019.
+22. Sebastian R. [Neural Transfer Learning for Natural Language Processing](http://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf). PhD Thesis. National University of Ireland, 2019.  
+23. Cao, Yixin, et al. [Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences.](https://arxiv.org/pdf/1902.06236) The World Wide Web Conference. ACM, 2019. [code](https://github.com/TaoMiner/joint-kg-recommender)  
+24. Rajarshi Bhowmik, Gerard de Melo. [Be Concise and Precise: Synthesizing Open-Domain Entity Descriptions from Facts.] (https://arxiv.org/pdf/1904.07391) The World Wide Web Conference. ACM, 2019.  
 
 * **---实体识别(ACL)---** 
 23. Parvez M R, Chakraborty S, Ray B, et al. [Building language models for text with named entities](https://arxiv.org/pdf/1805.04836.pdf). arXiv preprint arXiv:1805.04836, 2018.  
@@ -507,4 +509,5 @@ Proceedings of the 2016 Conference of the North American Chapter of the Associat
 86. Kundu, G., Sil, A., Florian, R., & Hamza, W. (2018). [Neural cross-lingual coreference resolution and its application to entity linking.](https://arxiv.org/pdf/1806.10201) arXiv preprint arXiv:1806.10201.  
 87. Kilias, T., Löser, A., Gers, F. A., Koopmanschap, R., Zhang, Y., & Kersten, M. (2018). [Idel: In-database entity linking with neural embeddings.](https://arxiv.org/pdf/1803.04884) arXiv preprint arXiv:1803.04884.  
 88. Cao, Y., Hou, L., Li, J., & Liu, Z. (2018). [Neural collective entity linking.](https://arxiv.org/pdf/1811.08603) arXiv preprint arXiv:1811.08603.
+
 
