@@ -164,6 +164,7 @@
 1. Navigli R, Ponzetto S P. [BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network](http://web.informatik.uni-mannheim.de/ponzetto/pubs/navigli12b.pdf). Artificial Intelligence, 2012, 193: 217-250.  
 1. Auer S, Bizer C, Kobilarov G, et al. [Dbpedia: A nucleus for a web of open data](http://editthis.info/images/swim/d/d8/Dbpedia_-_open_data.pdf). ISWC2007: 722-735.  
 1. Mitchell T, Cohen W, Hruschka E, et al. [Never-ending learning](https://dl.acm.org/ft_gateway.cfm?id=3191513&type=pdf). Communications of the ACM, 2018, 61(5): 103-115. [earlier work](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1879/2201)  
+1. Nguyen, Dat Ba, et al. [Query-driven on-the-fly knowledge base construction.](http://orbilu.uni.lu/bitstream/10993/34035/1/p66-nguyen.pdf) Proceedings of the VLDB Endowment 11.1 (2017): 66-79.  
 
 ## 知识表示和建模
 1. Sowa J F. Knowledge representation: logical, philosophical, and computational foundations. 1999.  
@@ -256,6 +257,7 @@
 17. Zhang Y, Zhang F, Yao P, et al. [Name Disambiguation in AMiner: Clustering, Maintenance, and Human in the Loop](http://keg.cs.tsinghua.edu.cn/jietang/publications/kdd18_yutao-AMiner-Name-Disambiguation.pdf). KDD2018: 1002-1011.  
 18. Ngomo A C N, Auer S. [LIMES—a time-efficient approach for large-scale link discovery on the web of data](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI11/paper/viewFile/3125/3692). IJCAI2011.  
 19. Sun, Zequn, Wei Hu, and Chengkai Li. [Cross-lingual entity alignment via joint attribute-preserving embedding.](https://arxiv.org/pdf/1708.05045) International Semantic Web Conference. Springer, Cham, 2017.  
+20.  Hoffart, Johannes, et al. [Robust disambiguation of named entities in text.](https://www.aclweb.org/anthology/D11-1072) Proceedings of the Conference on Empirical Methods in Natural Language Processing. Association for Computational Linguistics, 2011.  
 
  
 ## 知识图谱嵌入  
