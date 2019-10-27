@@ -165,6 +165,8 @@
 1. Auer S, Bizer C, Kobilarov G, et al. [Dbpedia: A nucleus for a web of open data](http://editthis.info/images/swim/d/d8/Dbpedia_-_open_data.pdf). ISWC2007: 722-735.  
 1. Mitchell T, Cohen W, Hruschka E, et al. [Never-ending learning](https://dl.acm.org/ft_gateway.cfm?id=3191513&type=pdf). Communications of the ACM, 2018, 61(5): 103-115. [earlier work](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1879/2201)  
 1. Nguyen, Dat Ba, et al. [Query-driven on-the-fly knowledge base construction.](http://orbilu.uni.lu/bitstream/10993/34035/1/p66-nguyen.pdf) Proceedings of the VLDB Endowment 11.1 (2017): 66-79.  
+1. Speer, Robert, Joshua Chin, and Catherine Havasi. [Conceptnet 5.5: An open multilingual graph of general knowledge](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14972/14051). AAAI2017.  
+
 
 ## 知识表示和建模
 1. Sowa J F. Knowledge representation: logical, philosophical, and computational foundations. 1999.  
@@ -511,8 +513,16 @@ Proceedings of the 2016 Conference of the North American Chapter of the Associat
 85. Raiman, J. R., & Raiman, O. M. (2018, April). [DeepType: multilingual entity linking by neural type system evolution.](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/17148/16094) In Thirty-Second AAAI Conference on Artificial Intelligence.  
 86. Kundu, G., Sil, A., Florian, R., & Hamza, W. (2018). [Neural cross-lingual coreference resolution and its application to entity linking.](https://arxiv.org/pdf/1806.10201) arXiv preprint arXiv:1806.10201.  
 87. Kilias, T., Löser, A., Gers, F. A., Koopmanschap, R., Zhang, Y., & Kersten, M. (2018). [Idel: In-database entity linking with neural embeddings.](https://arxiv.org/pdf/1803.04884) arXiv preprint arXiv:1803.04884.  
-88. Cao, Y., Hou, L., Li, J., & Liu, Z. (2018). [Neural collective entity linking.](https://arxiv.org/pdf/1811.08603) arXiv preprint arXiv:1811.08603.
+88. Cao, Y., Hou, L., Li, J., & Liu, Z. (2018). [Neural collective entity linking.](https://arxiv.org/pdf/1811.08603) arXiv preprint arXiv:1811.08603.  
 
-* **---知识融合---** 
+* **---知识融合---**  
 Wang, Zhichun, et al. [Cross-lingual knowledge graph alignment via graph convolutional networks.](https://www.aclweb.org/anthology/D18-1032) Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. 2018.  
 
+* **---知识补全---**   
+Xiaolan Wang, Xin Luna Dong, Yang Li, Alexandra Meliou. [MIDAS: Finding the right web sources to fill knowledge gaps](https://people.cs.umass.edu/~xlwang/midas-paper.pdf). ICDE2019.  
+
+* **---知识构建---**   
+Nguyen D B, Abujabal A, Tran N K, et al. [Query-driven on-the-fly knowledge base construction](http://orbilu.uni.lu/bitstream/10993/34035/1/p66-nguyen.pdf). VLDB2017.  
+
+* **---知识评估---**   
+Gao J, Li X, Xu Y E, et al. [Efficient knowledge graph accuracy evaluation](https://arxiv.org/pdf/1907.09657). VLDB2019, 12(11): 1679-1691.
