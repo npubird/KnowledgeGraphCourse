@@ -526,3 +526,10 @@ Nguyen D B, Abujabal A, Tran N K, et al. [Query-driven on-the-fly knowledge base
 
 * **---知识评估---**   
 Gao J, Li X, Xu Y E, et al. [Efficient knowledge graph accuracy evaluation](https://arxiv.org/pdf/1907.09657). VLDB2019, 12(11): 1679-1691.
+
+* **---知识图谱：综述、概念和发展---**   
+Claudio Gutierrez and Juan F. Sequeda. [A Brief History of Knowledge Graph's Main Ideas: A tutorial](http://knowledgegraph.today/paper.html). ISWC2019 tutorial  
+  
+
+
+
