@@ -1,8 +1,8 @@
 # A systematic course about knowledge graph for graduate students, interested researchers and engineers. 
 东南大学《知识图谱》研究生课程  
-时间：2019年春季（2月下旬\~5月中旬）  
-每周五下午2:00\~4:30  
-地点：东南大学九龙湖校区, 纪忠楼Y205  
+时间：春季学期（2月下旬\~5月中旬）  
+地点：东南大学九龙湖校区  
+授课人：汪鹏
 答疑/讨论/建议：请致信 pwang AT seu.edu.cn
 
 
