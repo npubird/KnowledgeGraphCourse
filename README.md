@@ -529,6 +529,8 @@ Gao J, Li X, Xu Y E, et al. [Efficient knowledge graph accuracy evaluation](http
 
 * **---知识图谱：综述、概念和发展---**   
 Claudio Gutierrez and Juan F. Sequeda. [A Brief History of Knowledge Graph's Main Ideas: A tutorial](http://knowledgegraph.today/paper.html). ISWC2019 tutorial  
+Noy N, Gao Y, Jain A, et al. [Industry-scale knowledge graphs: Lessons and challenges](https://dl.acm.org/doi/pdf/10.1145/3331166). ACM Queue, 2019, 17(2): 48-75.  
+
   
 
 
