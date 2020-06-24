@@ -388,7 +388,7 @@ Proceedings of the 2016 Conference of the North American Chapter of the Associat
 15. Neumann T, Weikum G. [The RDF-3X engine for scalable management of RDF data](https://pure.mpg.de/rest/items/item_1324253/component/file_1324252/content)[J]. The VLDB Journal—The International Journal on Very Large Data Bases, 2010, 19(1): 91-113.  
 
 ## 人机交互  
-1. Ferrucci D A. [Introduction to “this is watson”](https://ieeexplore.ieee.org/abstract/document/6177724/). IBM Journal of Research and Development, 2012, 56(3.4): 1: 1-1: 15.  
+1. Ferrucci D A. [Introduction to “this is watson”](https://ieeexplore.ieee.org/abstract/document/6177724/). IBM Journal of Research and Development, 2012, 56(3.4): 1:1-1:15.  
 2. Lally A, Prager J M, McCord M C, et al. [Question analysis: How Watson reads a clue](http://www.patwardhans.net/papers/LallyEtAl12.pdf). IBM Journal of Research and Development, 2012, 56(3.4): 2: 1-2: 14.  
 3. Zhou H, Young T, Huang M, et al. [Commonsense Knowledge Aware Conversation Generation with Graph Attention](https://www.ijcai.org/proceedings/2018/0643.pdf). IJCAI. 2018: 4623-4629.  
 4. Zhu Y, Zhang C, Ré C, et al. [Building a large-scale multimodal knowledge base system for answering visual queries](https://pdfs.semanticscholar.org/9563/d6fafb6ba09c082a57e8d9b31494029a45ac.pdf). arXiv:1507.05670, 2015.  
@@ -531,7 +531,10 @@ Gao J, Li X, Xu Y E, et al. [Efficient knowledge graph accuracy evaluation](http
 Claudio Gutierrez and Juan F. Sequeda. [A Brief History of Knowledge Graph's Main Ideas: A tutorial](http://knowledgegraph.today/paper.html). ISWC2019 tutorial  
 Noy N, Gao Y, Jain A, et al. [Industry-scale knowledge graphs: Lessons and challenges](https://dl.acm.org/doi/pdf/10.1145/3331166). ACM Queue, 2019, 17(2): 48-75.  
 
-  
+# 附录B：其它资源  
+[Top-level Conference Publications on Knowledge Graph (2018-2020)](https://github.com/wds-seu/Knowledge-Graph-Publications)   
+[Stanford Spring 2020 《Knowledge Graphs》](https://web.stanford.edu/class/cs520/)   
+
 
 
 
