@@ -169,7 +169,7 @@
 
 
 ## 知识表示和建模
-1. Sowa J F. Knowledge representation: logical, philosophical, and computational foundations. 1999.  
+1. Sowa J F. [Knowledge representation: logical, philosophical, and computational foundations](https://www.aclweb.org/anthology/J01-2006.pdf). 1999.  
 2. Noy N F, McGuinness D L. [Ontology Development 101: A Guide to Creating Your First Ontology](http://ftp.ksl.stanford.edu/people/dlm/papers/ontology-tutorial-noy-mcguinness.pdf). [another version](http://www.corais.org/sites/default/files/ontology_development_101_aguide_to_creating_your_first_ontology.pdf) 
 
 ## 知识抽取
