@@ -34,7 +34,7 @@
 + 知识的智能应用挑战
 
 **课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱-理论-技术-实践和挑战A.pdf)   [partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱-理论-技术-实践和挑战B.pdf)   
-**课件下载百度云链接**:[pub-1知识图谱-理论-技术-实践和挑战A.pdf](https://pan.baidu.com/s/1Ip89cXb4VpHXz3xbFOn6KQ) 提取码:kgkg  
+**课件下载百度云链接**:[pub-1知识图谱-理论-技术-实践和挑战.pdf](https://pan.baidu.com/s/1Ip89cXb4VpHXz3xbFOn6KQ) 提取码:kgkg  
 
 ## 第2讲 知识表示 (2019-3-15) 
 2.1 知识表示概念  
