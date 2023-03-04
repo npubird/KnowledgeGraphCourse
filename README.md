@@ -7,16 +7,36 @@
 
 
 # 课程内容
-## 第1讲 知识图谱概论 （2019-3-1,2019-3-8）
-1.1 知识图谱起源和发展  
-1.2 知识图谱 VS 深度学习  
-1.3 知识图谱 VS 关系数据库 VS 传统专家库  
-1.4 知识图谱本质和核心价值  
-1.5 知识图谱技术体系  
-1.6 典型知识图谱  
-1.7 知识图谱应用场景  
-**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱概论A.pdf)   [partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱概论B.pdf)   [partC](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱概论C.pdf)
-## 第2讲 知识表示 (2019-3-15)  
+## 第0讲 课程介绍 （2023-3-3,2023-3-10）
+**课件下载**:[pub-0课程介绍.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-0课程介绍.pdf)
+**课件下载百度云链接**:[pub-0课程介绍.pdf](https://pan.baidu.com/s/1ynZ0DdnErbqonJqBJSUTsQ)提取码:kgkg
+
+## 第1讲 知识图谱概论 （2023-3-3,2023-3-10）  
+1.1 认知智能的知识图谱视角浅析
++ 知识视角的认知智能
++ 知识图谱本质
++ 知识图谱的演化和形成过程  
++ 知识图谱 VS 深度学习  
++ 知识图谱 VS 传统知识库 VS 数据库 
++ 知识图谱应用场景
++ 知识图谱本质和核心价值
+
+1.2 知识图谱的技术体系剖析
++ 知识抽取
++ 知识融合
++ 知识表示学习
++ 知识推理
++ 知识存储
+
+1.3 知识图谱的瓶颈、问题和挑战的思考
++ 知识构建挑战
++ 知识质量挑战
++ 知识的智能应用挑战
+
+**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱-理论-技术-实践和挑战A.pdf)   [partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱-理论-技术-实践和挑战B.pdf) 
+**课件下载百度云链接**:[pub-1知识图谱-理论-技术-实践和挑战A.pdf](https://pan.baidu.com/s/1Ip89cXb4VpHXz3xbFOn6KQ)提取码:kgkg
+
+## 第2讲 知识表示 (2019-3-15) 
 2.1 知识表示概念  
 2.2 知识表示方法  
 + 语义网络  
