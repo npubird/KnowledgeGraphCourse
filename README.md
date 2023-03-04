@@ -8,8 +8,8 @@
 
 # 课程内容
 ## 第0讲 课程介绍 （2023-3-3,2023-3-10）
-**课件下载**:[pub-0课程介绍.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-0课程介绍.pdf)
-**课件下载百度云链接**:[pub-0课程介绍.pdf](https://pan.baidu.com/s/1ynZ0DdnErbqonJqBJSUTsQ)提取码:kgkg
+**课件下载**:[pub-0课程介绍.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-0课程介绍.pdf)   
+**课件下载百度云链接**:[pub-0课程介绍.pdf](https://pan.baidu.com/s/1ynZ0DdnErbqonJqBJSUTsQ)提取码:kgkg  
 
 ## 第1讲 知识图谱概论 （2023-3-3,2023-3-10）  
 1.1 认知智能的知识图谱视角浅析
@@ -33,8 +33,8 @@
 + 知识质量挑战
 + 知识的智能应用挑战
 
-**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱-理论-技术-实践和挑战A.pdf)   [partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱-理论-技术-实践和挑战B.pdf) 
-**课件下载百度云链接**:[pub-1知识图谱-理论-技术-实践和挑战A.pdf](https://pan.baidu.com/s/1Ip89cXb4VpHXz3xbFOn6KQ)提取码:kgkg
+**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱-理论-技术-实践和挑战A.pdf)   [partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱-理论-技术-实践和挑战B.pdf)   
+**课件下载百度云链接**:[pub-1知识图谱-理论-技术-实践和挑战A.pdf](https://pan.baidu.com/s/1Ip89cXb4VpHXz3xbFOn6KQ)提取码:kgkg  
 
 ## 第2讲 知识表示 (2019-3-15) 
 2.1 知识表示概念  
