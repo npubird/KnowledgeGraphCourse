@@ -553,7 +553,7 @@ Noy N, Gao Y, Jain A, et al. [Industry-scale knowledge graphs: Lessons and chall
 
 # 附录B：其它资源  
 [Top-level Conference Publications on Knowledge Graph (2018-2020)](https://github.com/wds-seu/Knowledge-Graph-Publications)   
-[Stanford Spring 2021 《Knowledge Graphs》](https://www.youtube.com/watch?v=FRcF6sh8sI0&list=PLDhh0lALedc5paY4N3NRZ3j_ui9foL7Qc)    
+[Stanford Spring 2021 《Knowledge Graphs》](https://www.youtube.com/playlist?list=PLDhh0lALedc5paY4N3NRZ3j_ui9foL7Qc)    
 [Stanford Spring 2020 《Knowledge Graphs》](https://www.youtube.com/playlist?list=PLDhh0lALedc7LC_5wpi5gDnPRnu1GSyRG) 
 
 
