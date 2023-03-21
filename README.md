@@ -9,7 +9,7 @@
 # 课程内容
 ## 第0讲 课程介绍 （2023-3-3,2023-3-10）
 **课件下载**:[pub-0课程介绍.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-0课程介绍.pdf)   
-**课件下载百度云链接**:[pub-0课程介绍.pdf](https://pan.baidu.com/s/1ynZ0DdnErbqonJqBJSUTsQ) 提取码:kgkg  
+**课件下载百度云链接**:[pub-0课程介绍.pdf](https://pan.baidu.com/s/1sfpYzulj7Wrv1efL2AxM3w) 提取码:kgkg  
 
 ## 第1讲 知识图谱概论 （2023-3-3,2023-3-10）  
 1.1 认知智能的知识图谱视角浅析
@@ -34,22 +34,23 @@
 + 知识的智能应用挑战
 
 **课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱-理论-技术-实践和挑战A.pdf)   [partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱-理论-技术-实践和挑战B.pdf)   
-**课件下载百度云链接**:[pub-1知识图谱-理论-技术-实践和挑战.pdf](https://pan.baidu.com/s/1Ip89cXb4VpHXz3xbFOn6KQ) 提取码:kgkg  
+**课件下载百度云链接**:[pub-1知识图谱-理论-技术-实践和挑战.pdf](https://pan.baidu.com/s/1Bh_ZpEFHX4lSDW0__0DwNw) 提取码:kgkg  
 
-## 第2讲 知识表示 (2019-3-15) 
+## 第2讲 知识表示 (2023-3-17) 
 2.1 知识表示概念  
 2.2 知识表示方法  
 + 语义网络  
-+ 产生式系统  
++ 产生式系统      
 + 框架系统  
 + 概念图  
-+ 形式化概念分析  
++ 形式概念分析  
 + 描述逻辑  
 + 本体  
 + 本体语言  
-+ 统计表示学习   
++ 知识图谱表示学习   
 
-**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-2知识表示.pdf)
+**课件下载**:[pub-2知识表示.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-2知识表示.pdf)
+**课件下载百度云链接**:[pub-2知识表示.pdf](https://pan.baidu.com/s/1RJTGFxMnPTDJr226ED54lw) 提取码:kgkg  
 
 ## 第3讲 知识建模 （2019-3-15，2019-3-22）
 3.1 本体  
