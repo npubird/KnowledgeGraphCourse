@@ -49,10 +49,10 @@
 + 本体语言  
 + 知识图谱表示学习   
 
-**课件下载**:[pub-2知识表示.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-2知识表示.pdf)
+**课件下载**:[pub-2知识表示.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-2知识表示.pdf)  
 **课件下载百度云链接**:[pub-2知识表示.pdf](https://pan.baidu.com/s/1RJTGFxMnPTDJr226ED54lw) 提取码:kgkg  
 
-## 第3讲 知识建模 （2019-3-15，2019-3-22）
+## 第3讲 知识建模 （2023-3-24）
 3.1 本体  
 3.2 知识建模方法 
 + 本体工程   
@@ -60,7 +60,8 @@
 + 知识建模工具  
 + 知识建模实践  
 
-**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-3知识建模.pdf)
+**课件下载**:[pub-3知识建模.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-3知识建模.pdf)  
+**课件下载百度云链接**:[pub-3知识建模.pdf](https://pan.baidu.com/s/1kf6pEiattmsvC7kMAScfkw) 提取码:kgkg  
 
 ## 第4讲 知识抽取基础:问题和方法（2019-3-22）
 4.1 知识抽取场景  
