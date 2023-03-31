@@ -52,7 +52,7 @@
 **课件下载**:[pub-2知识表示.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-2知识表示.pdf)  
 **课件下载百度云链接**:[pub-2知识表示.pdf](https://pan.baidu.com/s/1RJTGFxMnPTDJr226ED54lw) 提取码:kgkg  
 
-## 第3讲 知识建模 （2023-3-24）
+## 第3讲 知识建模 （2023-3-17）
 3.1 本体  
 3.2 知识建模方法 
 + 本体工程   
@@ -63,36 +63,32 @@
 **课件下载**:[pub-3知识建模.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-3知识建模.pdf)  
 **课件下载百度云链接**:[pub-3知识建模.pdf](https://pan.baidu.com/s/1kf6pEiattmsvC7kMAScfkw) 提取码:kgkg  
 
-## 第4讲 知识抽取基础:问题和方法（2019-3-22）
-4.1 知识抽取场景  
-4.2 知识抽取挑战  
-4.3 面向结构化数据的知识抽取  
-4.4 面向半结构化数据的知识抽取  
-4.5 面向非机构化数据的知识抽取  
+## 第4讲 知识抽取基础:问题和方法（2023-3-24）
+4.1 问题分析  
++ 知识抽取场景  
++ 知识抽取挑战  
+4.2 知识抽取场景和方法  
++ 面向结构化数据的知识抽取  
++ 面向半结构化数据的知识抽取
++ 面向无结构化数据的知识抽取  
 
-**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-4知识抽取-问题和方法.pdf)  
+**课件下载**:[pub-4知识抽取-问题与方法.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-4知识抽取-问题和方法.pdf)  
+**课件下载百度云链接**:[pub-4知识抽取-问题与方法.pdf](https://pan.baidu.com/s/1tiKkWbgGH_lHlnV0F_Ry_Q) 提取码:kgkg  
 
-## 第5讲 知识抽取:数据采集（2019-3-29）
-5.1 数据采集原理和技术
-+ 爬虫原理  
-+ 请求和响应   
-+ 多线程并行爬取   
-+ 反爬机制应对  
-5.2 数据采集实践  
-+ 百科 论坛 社交网络等爬取实践  
+## 第5讲 知识抽取:实体识别（2023-3-24）
+5.1 实体识别基本概念  
+5.2 基于规则和词典的实体识别方法  
+5.3 基于机器学习的实体识别方法  
+5.4 基于深度学习的实体识别方法  
+5.5 基于半监督学习的实体识别方法  
+5.6 基于迁移学习的实体识别方法  
+5.7 基于预训练的实体识别方法  
+5.8 实体识别研究前沿进展  
 
-**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-5知识抽取-数据获取.pdf)    
-
-## 第6讲 知识抽取:实体识别（2019-3-29）
-6.1 实体识别基本概念  
-6.2 基于规则和词典的实体识别方法  
-6.3 基于机器学习的实体识别方法  
-6.4 基于深度学习的实体识别方法  
-6.5 基于半监督学习的实体识别方法  
-6.6 基于迁移学习的实体识别方法  
-6.7 基于预训练的实体识别方法  
-
-**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-6知识抽取-实体识别.pdf)  
+**课件下载**:[pub-5知识抽取-实体识别.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-5知识抽取-实体识别.pdf)  
+[pub-5实体识别研究前沿进展2022.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-5实体识别研究前沿进展2022.pdf)  
+**课件下载百度云链接**:[pub-5知识抽取-实体识别.pdf](链接：https://pan.baidu.com/s/1xBRtjnZbzsLigqIiISHwzQ) 提取码：kgkg   
+[pub-5实体识别研究前沿进展2022.pdf](https://pan.baidu.com/s/1Tqsxakd28FpfmJUOnER1SQ) 提取码：kgkg  
 
 ## 第7讲 知识抽取:关系抽取（2019-4-19，2019-4-26）
 7.1 关系基本概念  
