@@ -87,7 +87,7 @@
 
 **课件下载**:[pub-5知识抽取-实体识别.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-5知识抽取-实体识别.pdf)  
 **课件下载**:[pub-5实体识别研究前沿进展2022.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-5实体识别研究前沿进展2022.pdf)  
-**课件下载百度云链接**:[pub-5知识抽取-实体识别.pdf](链接：https://pan.baidu.com/s/1xBRtjnZbzsLigqIiISHwzQ) 提取码：kgkg   
+**课件下载百度云链接**:[pub-5知识抽取-实体识别.pdf](https://pan.baidu.com/s/1xBRtjnZbzsLigqIiISHwzQ) 提取码：kgkg   
 **课件下载百度云链接**:[pub-5实体识别研究前沿进展2022.pdf](https://pan.baidu.com/s/1Tqsxakd28FpfmJUOnER1SQ) 提取码：kgkg  
 
 ## 第7讲 知识抽取:关系抽取（2019-4-19，2019-4-26）
