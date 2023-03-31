@@ -72,7 +72,7 @@
 + 面向半结构化数据的知识抽取
 + 面向无结构化数据的知识抽取  
 
-**课件下载**:[pub-4知识抽取-问题与方法.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-4知识抽取-问题和方法.pdf)  
+**课件下载**:[pub-4知识抽取-问题与方法.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-4知识抽取-问题与方法.pdf)  
 **课件下载百度云链接**:[pub-4知识抽取-问题与方法.pdf](https://pan.baidu.com/s/1tiKkWbgGH_lHlnV0F_Ry_Q) 提取码:kgkg  
 
 ## 第5讲 知识抽取:实体识别（2023-3-24）
