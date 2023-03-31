@@ -90,17 +90,20 @@
 **课件下载百度云链接**:[pub-5知识抽取-实体识别.pdf](https://pan.baidu.com/s/1xBRtjnZbzsLigqIiISHwzQ) 提取码：kgkg   
 **课件下载百度云链接**:[pub-5实体识别研究前沿进展2022.pdf](https://pan.baidu.com/s/1Tqsxakd28FpfmJUOnER1SQ) 提取码：kgkg  
 
-## 第7讲 知识抽取:关系抽取（2019-4-19，2019-4-26）
-7.1 关系基本概念  
-7.2 语义关系  
-7.3 关系抽取的特征  
-7.4 关系抽取数据集  
-7.5 基于监督学习的关系抽取方法  
-7.6 基于无监督学习的关系抽取方法  
-7.7 基于远程监督的关系抽取方法  
-7.8 基于深度学习/强化学习的关系抽取方法
+## 第6讲 知识抽取:关系抽取（2023-3-31）
+6.1 关系抽取简介   
+6.2 语义关系  
+6.3 关系抽取中的特征  
+6.4 关系抽取数据集  
+6.5 基于模板的关系抽取  
+6.6 有监督实体关系抽取   
+6.7 弱监督实体关系抽取    
+6.8 远程监督实体关系抽取
+6.9 无监督实体关系抽取    
+6.10 基于深度学习/强化学习的关系抽取
 
-**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-7知识抽取-关系抽取.pdf)  
+**课件下载**:[pub-6知识抽取-关系抽取](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-6知识抽取-关系抽取.pdf)  
+**课件下载百度云链接**:[pub-6知识抽取-关系抽取](https://pan.baidu.com/s/1DXheJ_2g9BLkv38PnoTC_A) 提取码：kgkg    
 
 ## 第8讲 知识抽取:事件抽取（2019-3-29）
 8.1 事件抽取基本概念  
