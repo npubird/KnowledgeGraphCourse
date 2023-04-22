@@ -141,8 +141,8 @@
 9.3 知识图谱表示学习模型的评测  
 9.4 知识图谱表示学习前沿进展和挑战  
 
-**课件下载**:[pub-9知识表示学习.pptx](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-9知识表示学习.pptx)  
-**课件下载百度云链接**:[pub-9知识表示学习.pptx](https://pan.baidu.com/s/1vCmICTprTA5afJyin5_FLg) 提取码：kgkg  
+**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-9知识表示学习A.pdf)   [partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-9知识表示学习B.pdf)   
+**课件下载百度云链接**:[pub-9知识表示学习.pdf](https://pan.baidu.com/s/1vZjU-LVMUHXaa7uyd7C7AQ) 提取码：kgkg  
 
 ## 第11讲 知识存储（2019-5-10）
 11.1 知识存储概念  
