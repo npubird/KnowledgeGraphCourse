@@ -135,11 +135,11 @@
 ## 第9讲 知识图谱表示学习（2023-4-21）
 9.1 知识表示学习原理及概念  
 9.2 知识表示学习方法
-+ 基于翻译的表示学习模型  
-+ 基于语义匹配的表示学习模型
-+ 融合多源信息的表示学习模型 
-9.3 知识图谱表示学习模型的评测  
-9.4 知识图谱表示学习前沿进展和挑战  
++ 基于翻译的表示学习模型   
++ 基于语义匹配的表示学习模型   
++ 融合多源信息的表示学习模型   
+9.3 知识图谱表示学习模型的评测   
+9.4 知识图谱表示学习前沿进展和挑战   
 
 **课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-9知识表示学习A.pdf)   [partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-9知识表示学习B.pdf)   
 **课件下载百度云链接**:[pub-9知识表示学习.pdf](https://pan.baidu.com/s/1vZjU-LVMUHXaa7uyd7C7AQ) 提取码：kgkg  
