@@ -132,16 +132,17 @@
 **课件下载百度云链接**:[pub-8知识融合.pdf](https://pan.baidu.com/s/12mklNU4RMZXthkdh9Er6Yw) 提取码：kgkg  
 **课件下载百度云链接**:[pub-8知识融合前沿进展.pdf](https://pan.baidu.com/s/1acMj8oiHhu6PTFMhO9KUjw) 提取码：kgkg  
 
-## 第10讲 知识图谱表示学习（2019-5-5）
-10.1 知识表示学习概念  
-10.2 基于距离的表示学习模型  
-10.3 基于翻译的表示学习模型  
-10.4 基于语义的表示学习模型  
-10.5 融合多源信息的表示学习模型  
-10.6 知识图谱表示学习模型的评测  
-10.7 知识图谱表示学习前沿进展和挑战  
+## 第9讲 知识图谱表示学习（2023-4-21）
+9.1 知识表示学习原理及概念  
+9.2 知识表示学习方法
++ 基于翻译的表示学习模型  
++ 基于语义匹配的表示学习模型
++ 融合多源信息的表示学习模型 
+9.3 知识图谱表示学习模型的评测  
+9.4 知识图谱表示学习前沿进展和挑战  
 
-**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-10知识图谱表示学习.pdf)  
+**课件下载**:[pub-9知识表示学习.pptx](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-9知识表示学习.pptx)  
+**课件下载百度云链接**:[pub-9知识表示学习.pptx](https://pan.baidu.com/s/1vCmICTprTA5afJyin5_FLg) 提取码：kgkg  
 
 ## 第11讲 知识存储（2019-5-10）
 11.1 知识存储概念  
