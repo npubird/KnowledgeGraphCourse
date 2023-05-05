@@ -146,6 +146,16 @@
 **课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-9知识表示学习A.pdf)   [partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-9知识表示学习B.pdf)   
 **课件下载百度云链接**:[pub-9知识表示学习.pdf](https://pan.baidu.com/s/1vZjU-LVMUHXaa7uyd7C7AQ) 提取码：kgkg  
 
+## 第10讲 ChatGPT到KG（2023-4-28）
+10.1 ChatGPT简介  
+10.2 ChatGPt关键技术  
+10.3 ChatGPT展望  
+10.4 KGCODE团队研究    
+
+**课件下载**:[pub-10ChatGPT到KG.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-10ChatGPT到KG.pdf)   
+**课件下载百度云链接**:[pub-10ChatGPT到KG.pdf](https://pan.baidu.com/s/1rTI8ZzL7x8I1P8Am4frKeQ) 提取码：kgkg  
+
+
 ## 第11讲 知识存储（2019-5-10）
 11.1 知识存储概念  
 11.2 图数据库管理系统、模型、查询语言  
