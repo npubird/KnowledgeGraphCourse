@@ -164,10 +164,10 @@
 + Prompt数据增强   
 
 11.2 ChatGPT在质量评测和Prompt工程方面的应用   
-+ 通过问题生成和问答评价知识基础对话中的事实一致性   
-+ 利用外部知识和自动反馈改进大型语言模型     
-+ 大语言模型的主动提示与思维链   
-+ 渐进式提示提高大语言模型的推理能力    
++ 论文：通过问题生成和问答评价知识基础对话中的事实一致性   
++ 论文：利用外部知识和自动反馈改进大型语言模型     
++ 论文：大语言模型的主动提示与思维链   
++ 论文：渐进式提示提高大语言模型的推理能力    
 
 **课件下载**:[pub-11Prompt分享.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-11Prompt分享.pdf)   
 **课件下载**:[pub-11ChatGPT在质量评测和Prompt工程方面的应用.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-11ChatGPT在质量评测和Prompt工程方面的应用.pdf)    
