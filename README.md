@@ -156,45 +156,24 @@
 **课件下载百度云链接**:[pub-10ChatGPT到KG.pdf](https://pan.baidu.com/s/1rTI8ZzL7x8I1P8Am4frKeQ) 提取码：kgkg  
 
 
-## 第11讲 知识存储（2019-5-10）
-11.1 知识存储概念  
-11.2 图数据库管理系统、模型、查询语言  
-11.3 RDF数据库管理系统、模型、查询语言  
-11.4 基于关系型数据库的知识存储  
+## 第11讲 ChatGPT相关论文分享（2023-5-5）
+11.1 Prompt简介及其在数据增强方面的应用  
++ Prompt背景介绍   
++ 什么是Prompt   
++ Prompt构建  
++ Prompt数据增强   
 
-**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-11知识存储.pdf)  
+11.2 ChatGPT在质量评测和Prompt工程方面的应用   
++ 通过问题生成和问答评价知识基础对话中的事实一致性   
++ 利用外部知识和自动反馈改进大型语言模型     
++ 大语言模型的主动提示与思维链   
++ 渐进式提示提高大语言模型的推理能力    
 
-## 第12讲 基于知识的智能问答（2019-5-10）
-12.1 智能问答基础  
-12.2 问题理解  
-12.3 问题求解  
-12.4 基于模板的知识问答方法  
-12.5 基于语义分析的知识问答方法  
-12.6 基于深度学习的知识问答方法  
-12.7 IBM Watson原理和技术剖析  
-12.8 微软小冰的原理和技术剖析  
+**课件下载**:[pub-11Prompt分享.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-11Prompt分享.pdf)   
+**课件下载**:[pub-11ChatGPT在质量评测和Prompt工程方面的应用.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-11ChatGPT在质量评测和Prompt工程方面的应用.pdf)    
+**课件下载百度云链接**:[pub-11Prompt分享.pdf](https://pan.baidu.com/s/1zl_Ie0_0541Kkt0uDL481Q) 提取码：kgkg    
+**课件下载百度云链接**:[pub-11ChatGPT在质量评测和Prompt工程方面的应用.pdf](https://pan.baidu.com/s/1-5aqKkiT1ot3XYQpmlxSyQ) 提取码：kgkg    
 
-**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-12知识问答-微软小冰.pdf)  
-
-## 第13讲 实体链接（2019-5-17）
-13.1 实体链接基本概念  
-13.2 基于概率生成模型的实体链接方法  
-13.3 基于主题模型的实体链接方法  
-13.4 基于图的实体链接方法  
-13.5 基于深度学习的实体链接方法  
-13.6 基于无监督的实体链接方法  
-
-**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-13实体链接.pdf)  
-
-## 第14讲 知识推理（2019-5-17）
-14.1 知识推理基础概念  
-14.2 基于逻辑的知识推理方法  
-14.3 基于统计学习的知识推理方法  
-14.4 基于图的知识推理方法  
-14.4 基于神经网络的知识推理方法  
-14.5 多种方法混合的知识推理方法  
-
-**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-14知识推理.pdf)  
 
 # 附录A：经典文献选读
 
