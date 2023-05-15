@@ -148,7 +148,7 @@
 
 ## 第10讲 ChatGPT到KG（2023-4-28）
 10.1 ChatGPT简介  
-10.2 ChatGPt关键技术  
+10.2 ChatGPT关键技术  
 10.3 ChatGPT展望  
 10.4 KGCODE团队研究    
 
