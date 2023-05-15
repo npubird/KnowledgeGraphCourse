@@ -171,6 +171,14 @@
 **课件下载百度云链接**:[pub-11Prompt分享.pdf](https://pan.baidu.com/s/1zl_Ie0_0541Kkt0uDL481Q) 提取码：kgkg    
 **课件下载百度云链接**:[pub-11ChatGPT在质量评测和Prompt工程方面的应用.pdf](https://pan.baidu.com/s/1-5aqKkiT1ot3XYQpmlxSyQ) 提取码：kgkg    
 
+## 第12讲 ChatGPT相关论文分享（2023-5-12）
+12.1 ChatGPT在信息抽取和多模态方面的应用
++ 论文：大型语言模型不是一个好的少样本信息抽取工具，但对于困难样本是一个好的重排工具   
++ 论文：Multimodal Chain-of-Thought Reasoning in Language Models    
++ 论文：Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models    
+
+**课件下载**:[pub-12ChatGPT在信息抽取和多模态方面的应用.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-12ChatGPT在信息抽取和多模态方面的应用.pdf)    
+**课件下载百度云链接**:[pub-12ChatGPT在信息抽取和多模态方面的应用.pdf](https://pan.baidu.com/s/1-5aqKkiT1ot3XYQpmlxSyQ) 提取码：kgkg      
 
 # 附录A：经典文献选读
 
