@@ -178,7 +178,7 @@
 + 论文：Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models    
 
 **课件下载**:[pub-12ChatGPT在信息抽取和多模态方面的应用.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-12ChatGPT在信息抽取和多模态方面的应用.pdf)    
-**课件下载百度云链接**:[pub-12ChatGPT在信息抽取和多模态方面的应用.pdf](https://pan.baidu.com/s/1-5aqKkiT1ot3XYQpmlxSyQ) 提取码：kgkg      
+**课件下载百度云链接**:[pub-12ChatGPT在信息抽取和多模态方面的应用.pdf](https://pan.baidu.com/s/136vQ1BUJRQ_HSXZDM7u94g) 提取码：kgkg      
 
 # 附录A：经典文献选读
 
