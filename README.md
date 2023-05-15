@@ -152,9 +152,6 @@
 10.3 ChatGPT展望  
 10.4 KGCODE团队研究    
 
-**课件下载**:[pub-10ChatGPT到KG.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-10ChatGPT到KG.pdf)   
-**课件下载百度云链接**:[pub-10ChatGPT到KG.pdf](https://pan.baidu.com/s/1rTI8ZzL7x8I1P8Am4frKeQ) 提取码：kgkg  
-
 
 ## 第11讲 ChatGPT相关论文分享（2023-5-5）
 11.1 Prompt简介及其在数据增强方面的应用  
