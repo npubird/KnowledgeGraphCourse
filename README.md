@@ -7,11 +7,13 @@
 
 
 # 课程内容
-## 第0讲 课程介绍 （2023-3-3,2023-3-10）
-**课件下载**:[pub-0课程介绍.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-0课程介绍.pdf)   
+## 第0讲 课程介绍 （2024-2-22）
+**课件下载**:[2024-pub-0课程介绍.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-0课程介绍.pdf)   
+<!--
 **课件下载百度云链接**:[pub-0课程介绍.pdf](https://pan.baidu.com/s/1sfpYzulj7Wrv1efL2AxM3w) 提取码:kgkg  
+-->
 
-## 第1讲 知识图谱概论 （2023-3-3,2023-3-10）  
+## 第1讲 知识图谱概论 （2024-）  
 1.1 认知智能的知识图谱视角浅析
 + 知识视角的认知智能
 + 知识图谱本质
@@ -36,7 +38,7 @@
 **课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱-理论-技术-实践和挑战A.pdf)   [partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱-理论-技术-实践和挑战B.pdf)   
 **课件下载百度云链接**:[pub-1知识图谱-理论-技术-实践和挑战.pdf](https://pan.baidu.com/s/1Bh_ZpEFHX4lSDW0__0DwNw) 提取码:kgkg  
 
-## 第2讲 知识表示 (2023-3-17) 
+## 第2讲 知识表示 (2024-) 
 2.1 知识表示概念  
 2.2 知识表示方法  
 + 语义网络  
@@ -52,7 +54,7 @@
 **课件下载**:[pub-2知识表示.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-2知识表示.pdf)  
 **课件下载百度云链接**:[pub-2知识表示.pdf](https://pan.baidu.com/s/1RJTGFxMnPTDJr226ED54lw) 提取码:kgkg  
 
-## 第3讲 知识建模 （2023-3-17）
+## 第3讲 知识建模 （2024-）
 3.1 本体  
 3.2 知识建模方法  
 + 本体工程   
@@ -63,7 +65,7 @@
 **课件下载**:[pub-3知识建模.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-3知识建模.pdf)  
 **课件下载百度云链接**:[pub-3知识建模.pdf](https://pan.baidu.com/s/1kf6pEiattmsvC7kMAScfkw) 提取码:kgkg  
 
-## 第4讲 知识抽取基础:问题和方法（2023-3-24）
+## 第4讲 知识抽取基础:问题和方法（2024-）
 4.1 问题分析  
 + 知识抽取场景  
 + 知识抽取挑战  
@@ -76,7 +78,7 @@
 **课件下载**:[pub-4知识抽取-问题与方法.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-4知识抽取-问题与方法.pdf)  
 **课件下载百度云链接**:[pub-4知识抽取-问题与方法.pdf](https://pan.baidu.com/s/1tiKkWbgGH_lHlnV0F_Ry_Q) 提取码:kgkg  
 
-## 第5讲 知识抽取:实体识别（2023-3-24）
+## 第5讲 知识抽取:实体识别（2024-）
 5.1 实体识别基本概念  
 5.2 基于规则和词典的实体识别方法  
 5.3 基于机器学习的实体识别方法  
@@ -91,7 +93,7 @@
 **课件下载百度云链接**:[pub-5知识抽取-实体识别.pdf](https://pan.baidu.com/s/1xBRtjnZbzsLigqIiISHwzQ) 提取码：kgkg   
 **课件下载百度云链接**:[pub-5实体识别研究前沿进展2022.pdf](https://pan.baidu.com/s/1Tqsxakd28FpfmJUOnER1SQ) 提取码：kgkg  
 
-## 第6讲 知识抽取:关系抽取（2023-3-31）
+## 第6讲 知识抽取:关系抽取（2024-）
 6.1 关系抽取简介   
 6.2 语义关系  
 6.3 关系抽取中的特征  
@@ -106,7 +108,7 @@
 **课件下载**:[pub-6知识抽取-关系抽取.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-6知识抽取-关系抽取.pdf)  
 **课件下载百度云链接**:[pub-6知识抽取-关系抽取.pdf](https://pan.baidu.com/s/1DXheJ_2g9BLkv38PnoTC_A) 提取码：kgkg    
 
-## 第7讲 知识抽取:事件抽取（2023-4-7）
+## 第7讲 知识抽取:事件抽取（2024-）
 7.1 事件抽取基本概念  
 7.2 事件抽取方法
 + 基于规则和模板的事件抽取方法  
@@ -120,7 +122,7 @@
 **课件下载**:[pub-7知识抽取-事件抽取.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-7知识抽取-事件抽取.pdf)   
 **课件下载百度云链接**:[pub-7知识抽取-事件抽取.pdf](https://pan.baidu.com/s/1241hfaj2fXLhdzYBmiFkVQ) 提取码：kgkg   
 
-## 第8讲 知识融合（2023-4-14）
+## 第8讲 知识融合（2024-）
 8.1 知识异构  
 8.2 本体匹配  
 8.3 匹配抽取和匹配调谐  
@@ -133,7 +135,7 @@
 **课件下载百度云链接**:[pub-8知识融合.pdf](https://pan.baidu.com/s/12mklNU4RMZXthkdh9Er6Yw) 提取码：kgkg  
 **课件下载百度云链接**:[pub-8知识融合前沿进展.pdf](https://pan.baidu.com/s/1acMj8oiHhu6PTFMhO9KUjw) 提取码：kgkg  
 
-## 第9讲 知识图谱表示学习（2023-4-21）
+## 第9讲 知识图谱表示学习（2024-）
 9.1 知识表示学习原理及概念  
 9.2 知识表示学习方法
 + 基于翻译的表示学习模型   
@@ -146,7 +148,7 @@
 **课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-9知识表示学习A.pdf)   [partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-9知识表示学习B.pdf)   
 **课件下载百度云链接**:[pub-9知识表示学习.pdf](https://pan.baidu.com/s/1vZjU-LVMUHXaa7uyd7C7AQ) 提取码：kgkg  
 
-## 第10讲 ChatGPT到KG（2023-4-28）
+## 第10讲 ChatGPT到KG（2024-）
 10.1 ChatGPT简介  
 10.2 ChatGPT关键技术  
 10.3 ChatGPT展望  
