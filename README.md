@@ -7,13 +7,13 @@
 
 
 # 课程内容
-## 第0讲 课程介绍 （2024-2-22）
+## 第0讲 课程介绍 （2024-02-22）
 **课件下载**:[2024-pub-0课程介绍.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-0课程介绍.pdf)   
 <!--
 **课件下载百度云链接**:[pub-0课程介绍.pdf](https://pan.baidu.com/s/1sfpYzulj7Wrv1efL2AxM3w) 提取码:kgkg  
 -->
 
-## 第1讲 知识图谱概论 （2024-02-29）  
+## 第1讲 知识图谱概论 （2024-02-29,03-08）  
 1.1 认知智能的知识图谱视角浅析
 + 知识视角的认知智能
 + 知识图谱本质
@@ -36,7 +36,7 @@
 + 知识的智能应用挑战
 
 **课件下载**:[2024-partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-1知识图谱-理论-技术-实践和挑战A.pdf)   
-[partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱-理论-技术-实践和挑战B.pdf)   
+[2024-partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-1知识图谱-理论-技术-实践和挑战B.pdf)   
 <!--
 **课件下载百度云链接**:[pub-1知识图谱-理论-技术-实践和挑战.pdf](https://pan.baidu.com/s/1Bh_ZpEFHX4lSDW0__0DwNw) 提取码:kgkg  
 -->
