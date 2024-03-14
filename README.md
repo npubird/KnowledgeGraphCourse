@@ -13,7 +13,7 @@
 **课件下载百度云链接**:[pub-0课程介绍.pdf](https://pan.baidu.com/s/1sfpYzulj7Wrv1efL2AxM3w) 提取码:kgkg  
 -->
 
-## 第1讲 知识图谱概论 （2024-02-29，03-08）  
+## 第1讲 知识图谱概论 （2024-02-29，03-08，03-14）  
 1.1 认知智能的知识图谱视角浅析
 + 知识视角的认知智能
 + 知识图谱本质
@@ -31,11 +31,12 @@
 + 知识存储
 
 1.3 知识图谱的瓶颈、问题和挑战的思考
-+ 知识构建挑战
++ 知识获取挑战
 + 知识质量挑战
 + 知识的智能应用挑战
 
-**课件下载**:[2024-partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-1知识图谱-理论-技术-实践和挑战A.pdf)   
+**课件下载**:
+[2024-partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-1知识图谱-理论-技术-实践和挑战A.pdf)   
 [2024-partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-1知识图谱-理论-技术-实践和挑战B.pdf)   
 [2024-partC](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-1知识图谱-理论-技术-实践和挑战C.pdf) 
 <!--
