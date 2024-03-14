@@ -37,6 +37,7 @@
 
 **课件下载**:[2024-partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-1知识图谱-理论-技术-实践和挑战A.pdf)   
 [2024-partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-1知识图谱-理论-技术-实践和挑战B.pdf)   
+[2024-partC](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-1知识图谱-理论-技术-实践和挑战C.pdf) 
 <!--
 **课件下载百度云链接**:[pub-1知识图谱-理论-技术-实践和挑战.pdf](https://pan.baidu.com/s/1Bh_ZpEFHX4lSDW0__0DwNw) 提取码:kgkg  
 -->
