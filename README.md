@@ -84,7 +84,7 @@
 + 面向半结构化数据的知识抽取
 + 面向无结构化数据的知识抽取  
 
-**课件下载**:[2024-pub-4知识抽取-问题与方法.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-4知识抽取-问题与方法.pdf)    
+**课件下载**:[2024-pub-4知识抽取问题与方法.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024pub-4知识抽取问题与方法.pdf)    
 
 ## 第5讲 知识抽取:实体识别（2024-03-28）
 5.1 实体识别基本概念  
@@ -96,8 +96,8 @@
 5.7 基于预训练的实体识别方法  
 5.8 实体识别研究前沿进展  
 
-**课件下载**:[pub-5知识抽取-实体识别.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-5知识抽取-实体识别.pdf)  
-**课件下载**:[pub-5实体识别研究前沿进展2022.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-5实体识别研究前沿进展2022.pdf)  
+**课件下载**:[2024-pub-5知识抽取-实体识别.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-5知识抽取-实体识别.pdf)  
+**课件下载**:[2024-pub-5实体识别研究前沿进展2023.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-5实体识别研究前沿进展2023.pdf)  
 
 ## 第6讲 知识抽取:关系抽取（2024-）
 6.1 关系抽取简介   
