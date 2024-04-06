@@ -43,7 +43,7 @@
 **课件下载百度云链接**:[pub-1知识图谱-理论-技术-实践和挑战.pdf](https://pan.baidu.com/s/1Bh_ZpEFHX4lSDW0__0DwNw) 提取码:kgkg  
 -->
 
-## 第2讲 知识表示 (2024-) 
+## 第2讲 知识表示 (2024-03-21) 
 2.1 知识表示概念  
 2.2 知识表示方法  
 + 语义网络  
@@ -61,7 +61,7 @@
 **课件下载百度云链接**:[pub-2知识表示.pdf](https://pan.baidu.com/s/1RJTGFxMnPTDJr226ED54lw) 提取码:kgkg  
 -->
 
-## 第3讲 知识建模 （2024-）
+## 第3讲 知识建模 （2024-03-21）
 3.1 本体  
 3.2 知识建模方法  
 + 本体工程   
@@ -74,7 +74,7 @@
 **课件下载百度云链接**:[pub-3知识建模.pdf](https://pan.baidu.com/s/1kf6pEiattmsvC7kMAScfkw) 提取码:kgkg  
 -->
 
-## 第4讲 知识抽取基础:问题和方法（2024-）
+## 第4讲 知识抽取基础:问题和方法（2024-03-28）
 4.1 问题分析  
 + 知识抽取场景  
 + 知识抽取挑战  
@@ -84,10 +84,9 @@
 + 面向半结构化数据的知识抽取
 + 面向无结构化数据的知识抽取  
 
-**课件下载**:[pub-4知识抽取-问题与方法.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-4知识抽取-问题与方法.pdf)  
-**课件下载百度云链接**:[pub-4知识抽取-问题与方法.pdf](https://pan.baidu.com/s/1tiKkWbgGH_lHlnV0F_Ry_Q) 提取码:kgkg  
+**课件下载**:[2024-pub-4知识抽取-问题与方法.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-4知识抽取-问题与方法.pdf)    
 
-## 第5讲 知识抽取:实体识别（2024-）
+## 第5讲 知识抽取:实体识别（2024-03-28）
 5.1 实体识别基本概念  
 5.2 基于规则和词典的实体识别方法  
 5.3 基于机器学习的实体识别方法  
@@ -99,8 +98,6 @@
 
 **课件下载**:[pub-5知识抽取-实体识别.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-5知识抽取-实体识别.pdf)  
 **课件下载**:[pub-5实体识别研究前沿进展2022.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-5实体识别研究前沿进展2022.pdf)  
-**课件下载百度云链接**:[pub-5知识抽取-实体识别.pdf](https://pan.baidu.com/s/1xBRtjnZbzsLigqIiISHwzQ) 提取码：kgkg   
-**课件下载百度云链接**:[pub-5实体识别研究前沿进展2022.pdf](https://pan.baidu.com/s/1Tqsxakd28FpfmJUOnER1SQ) 提取码：kgkg  
 
 ## 第6讲 知识抽取:关系抽取（2024-）
 6.1 关系抽取简介   
