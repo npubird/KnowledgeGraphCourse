@@ -95,9 +95,11 @@
 5.6 基于迁移学习的实体识别方法  
 5.7 基于预训练的实体识别方法  
 5.8 实体识别研究前沿进展  
+5.9 从经典到大模型的范式
 
 **课件下载**:[2024-pub-5知识抽取-实体识别.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-5知识抽取-实体识别.pdf)  
-**课件下载**:[2024-pub-5实体识别研究前沿进展2023.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-5实体识别研究前沿进展2023.pdf)  
+**课件下载**:[2024-pub-5知识抽取-从经典到大模型的范式.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-5知识抽取-从经典到大模型的范式.pdf)
+**课件下载**:[2024-pub-5.1实体识别研究前沿进展2023.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-5.1实体识别研究前沿进展2023.pdf)  
 
 ## 第6讲 知识抽取:关系抽取（2024-）
 6.1 关系抽取简介   
