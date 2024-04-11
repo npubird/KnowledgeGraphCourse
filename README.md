@@ -101,7 +101,7 @@
 **课件下载**:[2024-pub-5知识抽取-从经典到大模型的范式.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-5知识抽取-从经典到大模型的范式.pdf)
 **课件下载**:[2024-pub-5.1实体识别研究前沿进展2023.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-5.1实体识别研究前沿进展2023.pdf)  
 
-## 第6讲 知识抽取:关系抽取（2024-）
+## 第6讲 知识抽取:关系抽取（2024-04-11）
 6.1 关系抽取简介   
 6.2 语义关系  
 6.3 关系抽取中的特征  
@@ -113,8 +113,7 @@
 6.9 无监督实体关系抽取    
 6.10 基于深度学习/强化学习的关系抽取
 
-**课件下载**:[pub-6知识抽取-关系抽取.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-6知识抽取-关系抽取.pdf)  
-**课件下载百度云链接**:[pub-6知识抽取-关系抽取.pdf](https://pan.baidu.com/s/1DXheJ_2g9BLkv38PnoTC_A) 提取码：kgkg    
+**课件下载**:[2024-pub-6知识抽取-关系抽取.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-6知识抽取-关系抽取.pdf)  
 
 ## 第7讲 知识抽取:事件抽取（2024-）
 7.1 事件抽取基本概念  
