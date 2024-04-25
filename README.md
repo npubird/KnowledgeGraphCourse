@@ -115,7 +115,7 @@
 
 **课件下载**:[2024-pub-6知识抽取-关系抽取.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-6知识抽取-关系抽取.pdf)  
 
-## 第7讲 知识抽取:事件抽取（2024-）
+## 第7讲 知识抽取:事件抽取（2024-04-25）
 7.1 事件抽取基本概念  
 7.2 事件抽取方法
 + 基于规则和模板的事件抽取方法  
@@ -126,10 +126,9 @@
 7.3 金融领域事件抽取系统实现  
 7.4 事理图谱的研究与应用
 
-**课件下载**:[pub-7知识抽取-事件抽取.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-7知识抽取-事件抽取.pdf)   
-**课件下载百度云链接**:[pub-7知识抽取-事件抽取.pdf](https://pan.baidu.com/s/1241hfaj2fXLhdzYBmiFkVQ) 提取码：kgkg   
+**课件下载**:[2024-pub-7知识抽取-事件抽取.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-7知识抽取-事件抽取.pdf)   
 
-## 第8讲 知识融合（2024-）
+## 第8讲 知识融合（2024-04-25）
 8.1 知识异构  
 8.2 本体匹配  
 8.3 匹配抽取和匹配调谐  
@@ -137,10 +136,9 @@
 8.5 大规模实体匹配处理  
 8.6 知识融合应用实例  
 
-**课件下载**:[pub-8知识融合.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-8知识融合.pdf)   
-**课件下载**:[pub-8知识融合前沿进展.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-8知识融合前沿进展.pdf)   
-**课件下载百度云链接**:[pub-8知识融合.pdf](https://pan.baidu.com/s/12mklNU4RMZXthkdh9Er6Yw) 提取码：kgkg  
-**课件下载百度云链接**:[pub-8知识融合前沿进展.pdf](https://pan.baidu.com/s/1acMj8oiHhu6PTFMhO9KUjw) 提取码：kgkg  
+**课件下载**:[2024-pub-8知识融合.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-8知识融合.pdf)   
+**课件下载**:[2024-pub-8知识融合前沿进展.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-8知识融合前沿进展.pdf)   
+
 
 ## 第9讲 知识图谱表示学习（2024-）
 9.1 知识表示学习原理及概念  
