@@ -140,7 +140,7 @@
 **课件下载**:[2024-pub-8知识融合前沿进展.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-8知识融合前沿进展.pdf)   
 
 
-## 第9讲 知识图谱表示学习（2024-）
+## 第9讲 知识图谱表示学习（2024-04-28）
 9.1 知识表示学习原理及概念  
 9.2 知识表示学习方法
 + 基于翻译的表示学习模型   
@@ -150,17 +150,47 @@
 9.3 知识图谱表示学习模型的评测   
 9.4 知识图谱表示学习前沿进展和挑战   
 
-**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-9知识表示学习A.pdf)   [partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-9知识表示学习B.pdf)   
-**课件下载百度云链接**:[pub-9知识表示学习.pdf](https://pan.baidu.com/s/1vZjU-LVMUHXaa7uyd7C7AQ) 提取码：kgkg  
+**课件下载**:[2024-pub-9知识表示学习](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-9知识表示学习.pdf) 
 
-## 第10讲 ChatGPT到KG（2024-）
+
+## 2024-第10讲 KG+LLM论文分享（2024-04-25，2024-04-28）
+10.1 LLM for KG
++ (KGC)KICGPT: Large Language Model with Knowledge in Context for Knowledge Graph
++ (KGC)Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models
++ (Reasoning)KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models
++ (Reasoning)StructGPT: A General Framework for Large Language Model to Reason over Structured Data
++ (Reasoning)Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph
++ (RE)Revisiting Large Language Models as Zero-shot Relation Extractors
++ (RE)Unlocking Instructive In-Context Learning with Tabular Prompting for Relational Triple Extraction
++ (NER)ConsistNER: Towards Instructive NER Demonstrations for LLMs with the Consistency of Ontology and Context
++ (NER)InstructNER: Boosting Textural NER with Synthetic Image and Instructive Alignment
++ (NER)Boosting LLMs with Ontology-Aware Prompt for NER Data Augmentation
+
+10.2 KG for LLM
++ Systematic Assessment of Factual Knowledge in Large Language Models
++ OntoFact: Unveiling Fantastic Fact-Skeleton of LLMs via Ontology-Driven Reinforcement Learning
++ Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning
++ When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories
++ Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering
+
+10.3 KG vs LLM
++ LLMs4OL: Large Language Models‌ for Ontology Learning
++ DeepOnto: A Python Package for Ontology Engineering with Deep Learning
++ Do PLMs Know and Understand Ontological Knowledge?
++ Can ChatGPT Replace Traditional KBQA Models? An In-depth Analysis of GPT family LLMs’ Question Answering Performance
+
+**课件下载**:[2024-KG+LLM论文分享](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-KG+LLM论文分享.pdf) 
+
+
+
+## 2023-第10讲 ChatGPT到KG（2023）
 10.1 ChatGPT简介  
 10.2 ChatGPT关键技术  
 10.3 ChatGPT展望  
 10.4 KGCODE团队研究    
 
 
-## 第11讲 ChatGPT相关论文分享（2023-5-5）
+## 2023-第11讲 ChatGPT相关论文分享（2023-5-5）
 11.1 Prompt简介及其在数据增强方面的应用  
 + Prompt背景介绍   
 + 什么是Prompt   
